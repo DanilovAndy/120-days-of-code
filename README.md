@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 006 | Apr, 28 |  | Leetcode: Solved 834. Sum of Distances in Tree |
 | 005 | Apr, 27 |  | Participated Leetcode Contest (Rank 1708 / 22777)  <br/> Leetcode: Solved 514. Freedom Trail |
 | 004 | Apr, 26 |  | Continued FastAPI "crash course". SQLAlchemy <br/> Leetcode: Solved 1289. Minimum Falling Path Sum II |
 | 003 | Apr, 25 | Conventional Commits  | Git Hook Scripts for Conventional Commits. <br/> Leetcode: Solved 2370. Longest Ideal Subsequence |
