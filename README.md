@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 007 | Apr, 28 |  | Continued FastAPI "crash course". SQLAlchemy, Repository Pattern. <br/>Leetcode: Solved 2997. Minimum Number of Operations to Make Array XOR Equal to K |
+| 007 | Apr, 29 |  | Continued FastAPI "crash course". SQLAlchemy, Repository Pattern. <br/>Leetcode: Solved 2997. Minimum Number of Operations to Make Array XOR Equal to K |
 | 006 | Apr, 28 |  | Leetcode: Solved 834. Sum of Distances in Tree |
 | 005 | Apr, 27 |  | Participated Leetcode Contest (Rank 1708 / 22777)  <br/> Leetcode: Solved 514. Freedom Trail |
 | 004 | Apr, 26 |  | Continued FastAPI "crash course". SQLAlchemy <br/> Leetcode: Solved 1289. Minimum Falling Path Sum II |
