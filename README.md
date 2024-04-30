@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 008 | Apr, 30 |  | Continued FastAPI "crash course". Repository Pattern, Routers. <br/>Leetcode: Solved 1915. Number of Wonderful Substrings |
 | 007 | Apr, 29 |  | Continued FastAPI "crash course". SQLAlchemy, Repository Pattern. <br/>Leetcode: Solved 2997. Minimum Number of Operations to Make Array XOR Equal to K |
 | 006 | Apr, 28 |  | Leetcode: Solved 834. Sum of Distances in Tree |
 | 005 | Apr, 27 |  | Participated Leetcode Contest (Rank 1708 / 22777)  <br/> Leetcode: Solved 514. Freedom Trail |
