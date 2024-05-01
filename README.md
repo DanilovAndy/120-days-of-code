@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 009 | May, 1 |  | Continued FastAPI "crash course". Route parameters validation <br/>Leetcode: Solved 2000. Reverse Prefix of Word |
 | 008 | Apr, 30 |  | Continued FastAPI "crash course". Repository Pattern, Routers. <br/>Leetcode: Solved 1915. Number of Wonderful Substrings |
 | 007 | Apr, 29 |  | Continued FastAPI "crash course". SQLAlchemy, Repository Pattern. <br/>Leetcode: Solved 2997. Minimum Number of Operations to Make Array XOR Equal to K |
 | 006 | Apr, 28 |  | Leetcode: Solved 834. Sum of Distances in Tree |
