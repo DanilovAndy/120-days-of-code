@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 012 | May, 4 |  | Leetcode: Solved 881. Boats to Save People |
 | 011 | May, 3 | SQLAlchemy, PostgreSQL documentation  | Leetcode: Solved 165. Compare Version Numbers |
 | 010 | May, 2 | FastAPI, Pydantic documentation  | Leetcode: Solved 2441. Largest Positive Integer That Exists With Its Negative |
 | 009 | May, 1 |  | Continued FastAPI "crash course". Route parameters validation <br/>Leetcode: Solved 2000. Reverse Prefix of Word |
