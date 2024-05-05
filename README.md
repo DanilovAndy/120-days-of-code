@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 012 | May, 5 |  | Leetcode: 237. Delete Node in a Linked List |
 | 012 | May, 4 |  | Leetcode: Solved 881. Boats to Save People |
 | 011 | May, 3 | SQLAlchemy, PostgreSQL documentation  | Leetcode: Solved 165. Compare Version Numbers |
 | 010 | May, 2 | FastAPI, Pydantic documentation  | Leetcode: Solved 2441. Largest Positive Integer That Exists With Its Negative |
