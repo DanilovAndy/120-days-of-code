@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 015 | May, 7 | Linux command line | Simple Task Manager project: Published and deployed ASGI. Added "delete task" route. <br/>Leetcode: Solved 2816. Double a Number Represented as a Linked List |
 | 014 | May, 6 | Watched (answered questions, studied topics) [mock backend interview](https://youtu.be/JBKu84gQ16o?si=EvNbGy7E66edxly3). | Leetcode: Solved 2487. Remove Nodes From Linked List |
 | 013 | May, 5 |  | Leetcode: Solved 237. Delete Node in a Linked List |
 | 012 | May, 4 |  | Leetcode: Solved 881. Boats to Save People |
