@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 017 | May, 9 | | Booking FastAPI project: created async database (PostgreSQL) engine, created table model.  <br/>Leetcode: Solved 3075. Maximize Happiness of Selected Children |
 | 016 | May, 8 | | Booking FastAPI project: started the project. Base appilcation and routes.  <br/>Leetcode: Solved 506. Relative Ranks |
 | 015 | May, 7 | Linux command line | Simple Task Manager project: Published and deployed ASGI. Added "delete task" route. <br/>Leetcode: Solved 2816. Double a Number Represented as a Linked List |
 | 014 | May, 6 | Watched (answered questions, studied topics) [mock backend interview](https://youtu.be/JBKu84gQ16o?si=EvNbGy7E66edxly3). | Leetcode: Solved 2487. Remove Nodes From Linked List |
