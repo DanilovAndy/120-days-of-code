@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 019 | May, 11 |  | Participated Leetcode Contest (Rank 1743 / 25400) <br/>Leetcode: Solved 857. Minimum Cost to Hire K Workers|
 | 018 | May, 10 | Alembic, pydantic-settings documentation | Booking FastAPI project: DB migration, base settings validation.  <br/>Leetcode: Solved 786. K-th Smallest Prime Fraction |
 | 017 | May, 9 | | Booking FastAPI project: created async database (PostgreSQL) engine, created table model.  <br/>Leetcode: Solved 3075. Maximize Happiness of Selected Children |
 | 016 | May, 8 | | Booking FastAPI project: started the project. Base appilcation and routes.  <br/>Leetcode: Solved 506. Relative Ranks |
