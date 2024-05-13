@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 021 | May, 13 |  | Leetcode: Solved 861. Score After Flipping Matrix |
 | 020 | May, 12 |  | Leetcode: Solved 2373. Largest Local Values in a Matrix |
 | 019 | May, 11 |  | Participated Leetcode Contest (Rank 1743 / 25400) <br/>Leetcode: Solved 857. Minimum Cost to Hire K Workers|
 | 018 | May, 10 | Alembic, pydantic-settings documentation | Booking FastAPI project: DB migration, base settings validation.  <br/>Leetcode: Solved 786. K-th Smallest Prime Fraction |
