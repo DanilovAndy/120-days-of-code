@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 024 | May, 16 |  | Leetcode: Solved 2331. Evaluate Boolean Binary Tree |
+| 024 | May, 16 |  | Booking FastAPI project: added env variables validation with pydantic-settings package <br/> Leetcode: Solved 2331. Evaluate Boolean Binary Tree |
 | 023 | May, 15 |  | Leetcode: Solved 2812. Find the Safest Path in a Grid |
 | 022 | May, 14 |  | Leetcode: Solved 1219. Path with Maximum Gold |
 | 021 | May, 13 |  | Leetcode: Solved 861. Score After Flipping Matrix |
