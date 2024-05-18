@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 026 | May, 18 |  | Booking FastAPI project: Fixed relative paths. Filled BD with test data <br/> Leetcode: 979. Distribute Coins in Binary Tree |
 | 025 | May, 17 |  | Booking FastAPI project: added users, rooms ans booking table models <br/> Leetcode: 1325. Delete Leaves With a Given Value |
 | 024 | May, 16 |  | Booking FastAPI project: added env variables validation with pydantic-settings package <br/> Leetcode: Solved 2331. Evaluate Boolean Binary Tree |
 | 023 | May, 15 |  | Leetcode: Solved 2812. Find the Safest Path in a Grid |
