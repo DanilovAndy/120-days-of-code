@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 030 | May, 22 |  | Booking FastAPI project: Added JWT tokens, login user route <br/> Leetcode: Solved 131. Palindrome Partitioning |
 | 029 | May, 21 |  | Booking FastAPI project: Added password hashing, created base DAO model for users and registration user route <br/> Leetcode: Solved 78. Subsets |
 | 028 | May, 20 | Powersets. Classmethods, staticmethods.  | Booking FastAPI project: implemented DAO pattern, created base query methods. Created route with validation with base query method <br/> Leetcode: Solved 1863. Sum of All Subset XOR Totals |
 | 027 | May, 19 |  | Booking FastAPI project: Added base for booking routers <br/> Leetcode: Solved 3068. Find the Maximum Sum of Node Values |
