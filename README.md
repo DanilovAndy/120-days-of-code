@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 032 | May, 24 |  | Booking FastAPI project: Added custom exceptions, profile route <br/> Leetcode: Solved 1255. Maximum Score Words Formed by Letters |
 | 031 | May, 23 |  | Booking FastAPI project: Added authorization via JWT tokens, logout route <br/> Leetcode: Solved 2597. The Number of Beautiful Subsets |
 | 030 | May, 22 |  | Booking FastAPI project: Added JWT tokens, login user route <br/> Leetcode: Solved 131. Palindrome Partitioning |
 | 029 | May, 21 |  | Booking FastAPI project: Added password hashing, created base DAO model for users and registration user route <br/> Leetcode: Solved 78. Subsets |
