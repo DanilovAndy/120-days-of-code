@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 035 | May, 27 |  | Leetcode: Solved 1608. Special Array With X Elements Greater Than or Equal X |
 | 034 | May, 26 |  | Leetcode: Solved 552. Student Attendance Record II |
 | 033 | May, 25 |  | Participated Leetcode Contest (Rank 5155 / 27749) <br/> Leetcode: Solved 140. Word Break II |
 | 032 | May, 24 |  | Booking FastAPI project: Added custom exceptions, profile route <br/> Leetcode: Solved 1255. Maximum Score Words Formed by Letters |
