@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 036 | May, 28 |  | Leetcode: Solved 1208. Get Equal Substrings Within Budget |
 | 035 | May, 27 |  | Leetcode: Solved 1608. Special Array With X Elements Greater Than or Equal X |
 | 034 | May, 26 |  | Leetcode: Solved 552. Student Attendance Record II |
 | 033 | May, 25 |  | Participated Leetcode Contest (Rank 5155 / 27749) <br/> Leetcode: Solved 140. Word Break II |
