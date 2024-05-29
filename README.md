@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 037 | May, 29 |  | Leetcode: Solved 1404. Number of Steps to Reduce a Number in Binary Representation to One |
 | 036 | May, 28 |  | Leetcode: Solved 1208. Get Equal Substrings Within Budget |
 | 035 | May, 27 |  | Leetcode: Solved 1608. Special Array With X Elements Greater Than or Equal X |
 | 034 | May, 26 |  | Leetcode: Solved 552. Student Attendance Record II |
