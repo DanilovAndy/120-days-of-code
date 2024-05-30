@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 038 | May, 30 |  | Leetcode: Solved 1442. Count Triplets That Can Form Two Arrays of Equal XOR |
 | 037 | May, 29 |  | Leetcode: Solved 1404. Number of Steps to Reduce a Number in Binary Representation to One |
 | 036 | May, 28 |  | Leetcode: Solved 1208. Get Equal Substrings Within Budget |
 | 035 | May, 27 |  | Leetcode: Solved 1608. Special Array With X Elements Greater Than or Equal X |
