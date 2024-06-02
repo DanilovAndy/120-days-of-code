@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 041 | June, 2 |  | Leetcode: Solved 344. Reverse String |
 | 040 | June, 1 |  | Leetcode: Solved 3110. Score of a String |
 | 039 | May, 31 |  | Leetcode: Solved 260. Single Number III |
 | 038 | May, 30 |  | Leetcode: Solved 1442. Count Triplets That Can Form Two Arrays of Equal XOR |
