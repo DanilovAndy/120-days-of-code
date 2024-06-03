@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 042 | June, 3 |  | Leetcode: Solved 2486. Append Characters to String to Make Subsequence |
 | 041 | June, 2 |  | Leetcode: Solved 344. Reverse String |
 | 040 | June, 1 |  | Leetcode: Solved 3110. Score of a String |
 | 039 | May, 31 |  | Leetcode: Solved 260. Single Number III |
