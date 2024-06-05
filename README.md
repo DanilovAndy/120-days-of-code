@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 044 | June, 5 |  | Leetcode: Solved 1002. Find Common Characters|
 | 043 | June, 4 |  | Leetcode: Solved 409. Longest Palindrome |
 | 042 | June, 3 |  | Leetcode: Solved 2486. Append Characters to String to Make Subsequence |
 | 041 | June, 2 |  | Leetcode: Solved 344. Reverse String |
