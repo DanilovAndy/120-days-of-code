@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 045 | June, 6 |  | Leetcode: Solved 846. Hand of Straights|
 | 044 | June, 5 |  | Leetcode: Solved 1002. Find Common Characters|
 | 043 | June, 4 |  | Leetcode: Solved 409. Longest Palindrome |
 | 042 | June, 3 |  | Leetcode: Solved 2486. Append Characters to String to Make Subsequence |
