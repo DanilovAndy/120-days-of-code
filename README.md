@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 046 | June, 7 | Trie | Booking FastAPI project: Added add booking route, added querry for checking amount of free rooms with parameters <br/> Leetcode: Solved 648. Replace Words|
 | 045 | June, 6 |  | Leetcode: Solved 846. Hand of Straights|
 | 044 | June, 5 |  | Leetcode: Solved 1002. Find Common Characters|
 | 043 | June, 4 |  | Leetcode: Solved 409. Longest Palindrome |
