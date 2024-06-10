@@ -2,7 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 048 | June, 9 | | Leetcode: Solved 974. Subarray Sums Divisible by K |
+| 049 | June, 10 | | Booking FastAPI project: Refactored rooms model <br/>Leetcode: Solved 974. Subarray Sums Divisible by K |
+| 048 | June, 9 | | Booking FastAPI project: Added feature for booking free rooms <br/> Leetcode: Solved 974. Subarray Sums Divisible by K |
 | 047 | June, 8 | | Participated Leetcode Contest (Rank 4305 / 34613) <br/> Leetcode: Solved 523. Continuous Subarray Sum|
 | 046 | June, 7 | Trie | Booking FastAPI project: Added add booking route, added querry for checking amount of free rooms with parameters <br/> Leetcode: Solved 648. Replace Words|
 | 045 | June, 6 |  | Leetcode: Solved 846. Hand of Straights|
