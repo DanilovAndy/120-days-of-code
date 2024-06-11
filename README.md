@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 050 | June, 11 | | Leetcode: Solved 1122. Relative Sort Array |
 | 049 | June, 10 | | Booking FastAPI project: Refactored rooms model <br/>Leetcode: Solved 1051. Height Checker |
 | 048 | June, 9 | | Booking FastAPI project: Added feature for booking free rooms <br/> Leetcode: Solved 974. Subarray Sums Divisible by K |
 | 047 | June, 8 | | Participated Leetcode Contest (Rank 4305 / 34613) <br/> Leetcode: Solved 523. Continuous Subarray Sum|
