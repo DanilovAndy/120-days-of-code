@@ -2,7 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 052 | June, 13 | | Booking FastAPI project: Created route and request to get all free rooms of the hotel <br/>Leetcode: Solved 2037. Minimum Number of Moves to Seat Everyone |
+| 053 | June, 14 | | Booking FastAPI project: Created request to get all free rooms of the hotel <br/>Leetcode: Solved 945. Minimum Increment to Make Array Unique |
+| 052 | June, 13 | | Booking FastAPI project: Created route to get all free rooms of the hotel <br/>Leetcode: Solved 2037. Minimum Number of Moves to Seat Everyone |
 | 051 | June, 12 | | Booking FastAPI project: Continued to work on and refactor existing queries <br/>Leetcode: Solved 75. Sort Colors |
 | 050 | June, 11 | | Booking FastAPI project: Created DAO method and route to get hotels with free rooms on dates and location <br/>Leetcode: Solved 1122. Relative Sort Array |
 | 049 | June, 10 | | Booking FastAPI project: Refactored rooms model <br/>Leetcode: Solved 1051. Height Checker |
