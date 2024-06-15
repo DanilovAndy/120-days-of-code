@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 054 | June, 15 | | Booking FastAPI project: Added delete booking route and base DAO delete method <br/>Leetcode: Solved 502. IPO |
 | 053 | June, 14 | | Booking FastAPI project: Created request to get all free rooms of the hotel <br/>Leetcode: Solved 945. Minimum Increment to Make Array Unique |
 | 052 | June, 13 | | Booking FastAPI project: Created route to get all free rooms of the hotel <br/>Leetcode: Solved 2037. Minimum Number of Moves to Seat Everyone |
 | 051 | June, 12 | | Booking FastAPI project: Continued to work on and refactor existing queries <br/>Leetcode: Solved 75. Sort Colors |
