@@ -2,7 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 055 | June, 16 | | Taskmanager FastAPI project: Refactored code, added route for getting one task <br/>Leetcode: 330. Patching Array |
+| 056 | June, 17 | | Leetcode: Solved 633. Sum of Square Numbers |
+| 055 | June, 16 | | Taskmanager FastAPI project: Refactored code, added route for getting one task <br/>Leetcode: Solved 330. Patching Array |
 | 054 | June, 15 | | Booking FastAPI project: Added delete booking route and base DAO delete method <br/>Leetcode: Solved 502. IPO |
 | 053 | June, 14 | | Booking FastAPI project: Created request to get all free rooms of the hotel <br/>Leetcode: Solved 945. Minimum Increment to Make Array Unique |
 | 052 | June, 13 | | Booking FastAPI project: Created route to get all free rooms of the hotel <br/>Leetcode: Solved 2037. Minimum Number of Moves to Seat Everyone |
