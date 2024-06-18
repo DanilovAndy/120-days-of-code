@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 057 | June, 18 | | Leetcode: Solved 826. Most Profit Assigning Work |
 | 056 | June, 17 | | Leetcode: Solved 633. Sum of Square Numbers |
 | 055 | June, 16 | | Taskmanager FastAPI project: Refactored code, added route for getting one task <br/>Leetcode: Solved 330. Patching Array |
 | 054 | June, 15 | | Booking FastAPI project: Added delete booking route and base DAO delete method <br/>Leetcode: Solved 502. IPO |
