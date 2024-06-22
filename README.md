@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 061 | June, 22 | | Leetcode: Solved 1248. Count Number of Nice Subarrays|
 | 060 | June, 21 | | Leetcode: Solved 1052. Grumpy Bookstore Owner|
 | 059 | June, 20 | | Leetcode: Solved 1552. Magnetic Force Between Two Balls|
 | 058 | June, 19 | | Booking FastAPI project: Created frontend HTML+Jinja template for getting hotels by location <br/>Leetcode: Solved 1482. Minimum Number of Days to Make m Bouquets|
