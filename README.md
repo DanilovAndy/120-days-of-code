@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 063 | June, 24 | | Leetcode: Solved 995. Minimum Number of K Consecutive Bit Flips|
 | 062 | June, 23 | | Leetcode: Solved 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|
 | 061 | June, 22 | | Leetcode: Solved 1248. Count Number of Nice Subarrays|
 | 060 | June, 21 | | Leetcode: Solved 1052. Grumpy Bookstore Owner|
