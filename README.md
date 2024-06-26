@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 065 | June, 26 | | Leetcode: Solved 1382. Balance a Binary Search Tree|
+| 065 | June, 26 | | Booking FastAPI project: CORS middleware settings. Added images and CSS styles to hotel html template <br/>Leetcode: Solved 1382. Balance a Binary Search Tree|
 | 064 | June, 25 | | Booking FastAPI project: Created route for adding static images<br/>Leetcode: Solved 1038. Binary Search Tree to Greater Sum Tree|
 | 063 | June, 24 | | Leetcode: Solved 995. Minimum Number of K Consecutive Bit Flips|
 | 062 | June, 23 | | Leetcode: Solved 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|
