@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 066 | June, 27 | | Booking FastAPI project: Added Redis cache initialization, schemas for hotel models <br/>Leetcode: Solved 1791. Find Center of Star Graph|
 | 065 | June, 26 | | Booking FastAPI project: CORS middleware settings. Added images and CSS styles to hotel HTML template <br/>Leetcode: Solved 1382. Balance a Binary Search Tree|
 | 064 | June, 25 | | Booking FastAPI project: Created route for adding static images<br/>Leetcode: Solved 1038. Binary Search Tree to Greater Sum Tree|
 | 063 | June, 24 | | Leetcode: Solved 995. Minimum Number of K Consecutive Bit Flips|
