@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 067 | June, 28 | | Booking FastAPI project: Added cache to get_hotels route, added response validation. <br/>Leetcode: Solved 2285. Maximum Total Importance of Roads|
+| 068 | June, 29 | YAML: data types | Leetcode: Solved 2192. All Ancestors of a Node in a Directed Acyclic Graph|
 | 067 | June, 28 | | Booking FastAPI project: Added cache to get_hotels route, added response validation. <br/>Leetcode: Solved 2285. Maximum Total Importance of Roads|
 | 066 | June, 27 | | Booking FastAPI project: Added Redis cache initialization, schemas for hotel models <br/>Leetcode: Solved 1791. Find Center of Star Graph|
 | 065 | June, 26 | | Booking FastAPI project: CORS middleware settings. Added images and CSS styles to hotel HTML template <br/>Leetcode: Solved 1382. Balance a Binary Search Tree|
