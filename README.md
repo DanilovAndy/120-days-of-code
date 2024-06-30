@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 069 | June, 30 | | Leetcode: Solved 1579. Remove Max Number of Edges to Keep Graph Fully Traversable|
 | 068 | June, 29 | YAML: data types | Leetcode: Solved 2192. All Ancestors of a Node in a Directed Acyclic Graph|
 | 067 | June, 28 | | Booking FastAPI project: Added cache to get_hotels route, added response validation. <br/>Leetcode: Solved 2285. Maximum Total Importance of Roads|
 | 066 | June, 27 | | Booking FastAPI project: Added Redis cache initialization, schemas for hotel models <br/>Leetcode: Solved 1791. Find Center of Star Graph|
