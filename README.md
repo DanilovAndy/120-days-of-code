@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 071 | July, 02 | | Leetcode: Solved 350. Intersection of Two Arrays II|
 | 070 | July, 01 | | Leetcode: Solved 1550. Three Consecutive Odds|
 | 069 | June, 30 | | Leetcode: Solved 1579. Remove Max Number of Edges to Keep Graph Fully Traversable|
 | 068 | June, 29 | YAML: data types | Leetcode: Solved 2192. All Ancestors of a Node in a Directed Acyclic Graph|
