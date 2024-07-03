@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 072 | July, 03 | | Leetcode: Solved 1509. Minimum Difference Between Largest and Smallest Value in Three Moves|
 | 071 | July, 02 | Celery | Leetcode: Solved 350. Intersection of Two Arrays II|
 | 070 | July, 01 | | Leetcode: Solved 1550. Three Consecutive Odds|
 | 069 | June, 30 | | Leetcode: Solved 1579. Remove Max Number of Edges to Keep Graph Fully Traversable|
