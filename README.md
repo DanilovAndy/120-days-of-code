@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 074 | July, 05 | Celery. Flower| Booking FastAPI project: Fixed serialization for celery task for sending email confirmations. <br/>Leetcode: Solved 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points|
 | 073 | July, 04 | | Booking FastAPI project: Added celery task for sending email confirmations. <br/>Leetcode: Solved 2181. Merge Nodes in Between Zeros|
 | 072 | July, 03 | | Booking FastAPI project: Added celery app, added celery task for resizing uploaded pictures. <br/>Leetcode: Solved 1509. Minimum Difference Between Largest and Smallest Value in Three Moves|
 | 071 | July, 02 | Celery | Leetcode: Solved 350. Intersection of Two Arrays II|
