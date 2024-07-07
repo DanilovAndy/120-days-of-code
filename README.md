@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 076 | July, 07 | | Leetcode: Solved 1518. Water Bottles |
 | 075 | July, 06 | | Booking FastAPI project: Provided relationships between database model classes and created admin panel and viewpoints. <br/>Leetcode: Solved 2582. Pass the Pillow. <br/>Participated Leetcode Contest (Rank 6389 / 38813)|
 | 074 | July, 05 | Celery. Flower| Booking FastAPI project: Fixed serialization for celery task for sending email confirmations. <br/>Leetcode: Solved 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points|
 | 073 | July, 04 | | Booking FastAPI project: Added celery task for sending email confirmations. <br/>Leetcode: Solved 2181. Merge Nodes in Between Zeros|
