@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 078 | July, 09 | | Leetcode: Solved 1701. Average Waiting Time |
 | 077 | July, 08 | | Leetcode: Solved 1823. Find the Winner of the Circular Game |
 | 076 | July, 07 | | Leetcode: Solved 1518. Water Bottles |
 | 075 | July, 06 | | Booking FastAPI project: Provided relationships between database model classes and created admin panel and viewpoints. <br/>Leetcode: Solved 2582. Pass the Pillow. <br/>Participated Leetcode Contest (Rank 6389 / 38813)|
