@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 079 | July, 10 | | Leetcode: Solved 1598. Crawler Log Folder |
 | 078 | July, 09 | | Leetcode: Solved 1701. Average Waiting Time |
 | 077 | July, 08 | | Leetcode: Solved 1823. Find the Winner of the Circular Game |
 | 076 | July, 07 | | Leetcode: Solved 1518. Water Bottles |
