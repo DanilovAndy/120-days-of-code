@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 080 | July, 11 | | Leetcode: Solved 1190. Reverse Substrings Between Each Pair of Parentheses|
 | 079 | July, 10 | | Leetcode: Solved 1598. Crawler Log Folder |
 | 078 | July, 09 | | Leetcode: Solved 1701. Average Waiting Time |
 | 077 | July, 08 | | Leetcode: Solved 1823. Find the Winner of the Circular Game |
