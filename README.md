@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 081 | July, 12 | | Leetcode: Solved 1717. Maximum Score From Removing Substrings|
 | 080 | July, 11 | | Leetcode: Solved 1190. Reverse Substrings Between Each Pair of Parentheses|
 | 079 | July, 10 | | Leetcode: Solved 1598. Crawler Log Folder |
 | 078 | July, 09 | | Leetcode: Solved 1701. Average Waiting Time |
