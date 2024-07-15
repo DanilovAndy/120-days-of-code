@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 084 | July, 15 | | Leetcode: Solved 2196. Create Binary Tree From Descriptions|
 | 083 | July, 14 | | Leetcode: Solved 726. Number of Atoms|
 | 082 | July, 13 | | Leetcode: Solved 2751. Robot Collisions|
 | 081 | July, 12 | | Leetcode: Solved 1717. Maximum Score From Removing Substrings|
