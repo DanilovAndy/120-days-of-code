@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 086 | July, 17 | | Leetcode: Solved 1110. Delete Nodes And Return Forest|
 | 085 | July, 16 | | Leetcode: Solved 2096. Step-By-Step Directions From a Binary Tree Node to Another|
 | 084 | July, 15 | | Leetcode: Solved 2196. Create Binary Tree From Descriptions|
 | 083 | July, 14 | | Leetcode: Solved 726. Number of Atoms|
