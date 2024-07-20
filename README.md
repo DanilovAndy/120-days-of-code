@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | 089 | July, 20 | | Leetcode: Solved 1605. Find Valid Matrix Given Row and Column Sums <br/>Participated Leetcode Contest (Rank 8580 / 34697)|
 | 088 | July, 19 | | Leetcode: Solved 1380. Lucky Numbers in a Matrix|
-| 087 | July, 18 | Pytest, Fixtures | Booking FastAPI project: set pytest envitoment and DB fixture <br/>Leetcode: Solved 1530. Number of Good Leaf Nodes Pairs|
+| 087 | July, 18 | Pytest, Fixtures | Booking FastAPI project: set pytest enviroment and DB fixture <br/>Leetcode: Solved 1530. Number of Good Leaf Nodes Pairs|
 | 086 | July, 17 | | Booking FastAPI project: created auth for sqladmin <br/>Leetcode: Solved 1110. Delete Nodes And Return Forest|
 | 085 | July, 16 | | Leetcode: Solved 2096. Step-By-Step Directions From a Binary Tree Node to Another|
 | 084 | July, 15 | | Leetcode: Solved 2196. Create Binary Tree From Descriptions|
