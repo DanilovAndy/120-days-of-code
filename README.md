@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 090 | July, 21 | | Leetcode: Solved 2392. Build a Matrix With Conditions|
 | 089 | July, 20 | | Booking FastAPI project: made client and session fixtures <br/>Leetcode: Solved 1605. Find Valid Matrix Given Row and Column Sums <br/>Participated Leetcode Contest (Rank 8580 / 34697)|
 | 088 | July, 19 | | Leetcode: Solved 1380. Lucky Numbers in a Matrix|
 | 087 | July, 18 | Pytest, Fixtures | Booking FastAPI project: set pytest environment and DB fixture <br/>Leetcode: Solved 1530. Number of Good Leaf Nodes Pairs|
