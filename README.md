@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 091 | July, 22 | | Booking FastAPI project: wrote integration api test for users <br/>Leetcode: Solved 2418. Sort the People |
 | 090 | July, 21 | | Leetcode: Solved 2392. Build a Matrix With Conditions|
 | 089 | July, 20 | | Booking FastAPI project: made client and session fixtures <br/>Leetcode: Solved 1605. Find Valid Matrix Given Row and Column Sums <br/>Participated Leetcode Contest (Rank 8580 / 34697)|
 | 088 | July, 19 | | Leetcode: Solved 1380. Lucky Numbers in a Matrix|
