@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 093 | July, 24 | | Leetcode: Solved 2191. Sort the Jumbled Numbers|
 | 092 | July, 23 | | Leetcode: Solved 1636. Sort Array by Increasing Frequency |
 | 091 | July, 22 | | Booking FastAPI project: wrote integration api test for users <br/>Leetcode: Solved 2418. Sort the People |
 | 090 | July, 21 | | Leetcode: Solved 2392. Build a Matrix With Conditions|
