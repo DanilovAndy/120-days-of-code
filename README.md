@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 094 | July, 25 | | Leetcode: Solved 912. Sort an Array|
+| 094 | July, 25 | | Booking FastAPI project: wrote integration and unit test for api and dao. Authenticated user fixture.  <br/>Leetcode: Solved 912. Sort an Array|
 | 093 | July, 24 | | Leetcode: Solved 2191. Sort the Jumbled Numbers|
 | 092 | July, 23 | | Leetcode: Solved 1636. Sort Array by Increasing Frequency |
 | 091 | July, 22 | | Booking FastAPI project: wrote integration api test for users <br/>Leetcode: Solved 2418. Sort the People |
