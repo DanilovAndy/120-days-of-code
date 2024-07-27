@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 096 | July, 27 | | Leetcode: Solved 2976. Minimum Cost to Convert String I|
 | 095 | July, 26 | | Booking FastAPI project: continued writing of integration and unit test for api and dao.  <br/>Leetcode: Solved 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance|
 | 094 | July, 25 | | Booking FastAPI project: wrote integration and unit test for api and dao. Authenticated user fixture.  <br/>Leetcode: Solved 912. Sort an Array|
 | 093 | July, 24 | | Leetcode: Solved 2191. Sort the Jumbled Numbers|
