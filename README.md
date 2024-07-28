@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 097 | July, 28 | | Leetcode: Solved 2045. Second Minimum Time to Reach Destination|
 | 096 | July, 27 | | Leetcode: Solved 2976. Minimum Cost to Convert String I|
 | 095 | July, 26 | | Booking FastAPI project: continued writing of integration and unit test for api and dao.  <br/>Leetcode: Solved 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance|
 | 094 | July, 25 | | Booking FastAPI project: wrote integration and unit test for api and dao. Authenticated user fixture.  <br/>Leetcode: Solved 912. Sort an Array|
