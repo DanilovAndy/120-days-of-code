@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 0100 | July, 31 | | Leetcode: Solved 1105. Filling Bookcase Shelves|
+| 100 | July, 31 | | Leetcode: Solved 1105. Filling Bookcase Shelves|
 | 099 | July, 30 | | Leetcode: Solved 1653. Minimum Deletions to Make String Balanced|
 | 098 | July, 29 | | Leetcode: Solved 1395. Count Number of Teams|
 | 097 | July, 28 | | Leetcode: Solved 2045. Second Minimum Time to Reach Destination|
