@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 101 | Aug, 01 | | Leetcode: Solved 2678. Number of Senior Citizens|
 | 100 | July, 31 | | Leetcode: Solved 1105. Filling Bookcase Shelves|
 | 099 | July, 30 | | Leetcode: Solved 1653. Minimum Deletions to Make String Balanced|
 | 098 | July, 29 | | Leetcode: Solved 1395. Count Number of Teams|
