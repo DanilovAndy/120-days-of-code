@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 106 | Aug, 06 | | Leetcode: Solved 3016. Minimum Number of Pushes to Type Word II|
 | 105 | Aug, 05 | | Leetcode: Solved 2053. Kth Distinct String in an Array|
 | 104 | Aug, 04 | | Leetcode: Solved 1508. Range Sum of Sorted Subarray Sums|
 | 103 | Aug, 03 | | Leetcode: Solved 1460. Make Two Arrays Equal by Reversing Subarrays <br/>Participated Leetcode Contest (Rank 12857 / 41336)|
