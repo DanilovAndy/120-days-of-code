@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 109 | Aug, 09 | | Leetcode: Solved 840. Magic Squares In Grid|
 | 108 | Aug, 08 | | Leetcode: Solved 885. Spiral Matrix III|
 | 107 | Aug, 07 | | Leetcode: Solved 273. Integer to English Words|
 | 106 | Aug, 06 | | Leetcode: Solved 3016. Minimum Number of Pushes to Type Word II|
