@@ -2,6 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 111 | Aug, 11 | Black, Flake8, isort, pyright | Booking FastAPI project: formatting code with linter. Leetcode: Solved 1568. Minimum Number of Days to Disconnect Island|
+| 110 | Aug, 10 | | Booking FastAPI project: various integration and unit tests for api and dao. Fixtures. Leetcode: Solved 959. Regions Cut By Slashes|
 | 109 | Aug, 09 | | Leetcode: Solved 840. Magic Squares In Grid|
 | 108 | Aug, 08 | | Leetcode: Solved 885. Spiral Matrix III|
 | 107 | Aug, 07 | | Leetcode: Solved 273. Integer to English Words|
