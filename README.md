@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 114 | Aug, 14 | | Leetcode: Solved 719. Find K-th Smallest Pair Distance|
 | 113 | Aug, 13 | | Leetcode: Solved 703. Kth Largest Element in a Stream|
 | 112 | Aug, 12 | Sentry | Booking FastAPI project: adjusted logger. Leetcode: Solved 1568. Minimum Number of Days to Disconnect Island|
 | 111 | Aug, 11 | Black, Flake8, isort, pyright | Booking FastAPI project: formatting code with linter. Leetcode: Solved 1568. Minimum Number of Days to Disconnect Island|
