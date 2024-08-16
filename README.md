@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 116 | Aug, 16 | | Leetcode: Solved 624. Maximum Distance in Arrays|
 | 115 | Aug, 15 | | Leetcode: Solved 860. Lemonade Change|
 | 114 | Aug, 14 | | Leetcode: Solved 719. Find K-th Smallest Pair Distance|
 | 113 | Aug, 13 | | Leetcode: Solved 703. Kth Largest Element in a Stream|
