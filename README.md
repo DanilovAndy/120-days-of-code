@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 117 | Aug, 17 | | Leetcode: Solved 1937. Maximum Number of Points with Cost <br/>Participated Leetcode Contest (Rank 6663 / 36341)|
 | 116 | Aug, 16 | | Leetcode: Solved 624. Maximum Distance in Arrays|
 | 115 | Aug, 15 | | Leetcode: Solved 860. Lemonade Change|
 | 114 | Aug, 14 | | Leetcode: Solved 719. Find K-th Smallest Pair Distance|
