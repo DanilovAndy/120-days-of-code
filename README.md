@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 118 | Aug, 18 | | Leetcode: Solved 264. Ugly Number II|
 | 117 | Aug, 17 | | Leetcode: Solved 1937. Maximum Number of Points with Cost <br/>Participated Leetcode Contest (Rank 6663 / 36341)|
 | 116 | Aug, 16 | | Leetcode: Solved 624. Maximum Distance in Arrays|
 | 115 | Aug, 15 | | Leetcode: Solved 860. Lemonade Change|
