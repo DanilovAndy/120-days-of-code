@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 121 | Aug, 21 | | Leetcode: Solved 664. Strange Printer|
 | 120 | Aug, 20 | | Leetcode: Solved 1140. Stone Game II|
 | 119 | Aug, 19 | | Leetcode: Solved 650. 2 Keys Keyboard|
 | 118 | Aug, 18 | | Leetcode: Solved 264. Ugly Number II|
