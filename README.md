@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 122 | Aug, 22 | | Leetcode: 476. Number Complement|
 | 121 | Aug, 21 | | Leetcode: Solved 664. Strange Printer|
 | 120 | Aug, 20 | | Leetcode: Solved 1140. Stone Game II|
 | 119 | Aug, 19 | | Leetcode: Solved 650. 2 Keys Keyboard|
