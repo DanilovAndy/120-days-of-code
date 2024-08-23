@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 123 | Aug, 23 | | Leetcode: 592. Fraction Addition and Subtraction|
 | 122 | Aug, 22 | | Leetcode: 476. Number Complement|
 | 121 | Aug, 21 | | Leetcode: Solved 664. Strange Printer|
 | 120 | Aug, 20 | | Leetcode: Solved 1140. Stone Game II|
