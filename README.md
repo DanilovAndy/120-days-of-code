@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 124 | Aug, 24 | | Leetcode: 564. Find the Closest Palindrome|
 | 123 | Aug, 23 | | Leetcode: 592. Fraction Addition and Subtraction|
 | 122 | Aug, 22 | | Leetcode: 476. Number Complement|
 | 121 | Aug, 21 | | Leetcode: Solved 664. Strange Printer|
