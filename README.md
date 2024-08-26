@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 126 | Aug, 26 | | Leetcode: 590. N-ary Tree Postorder Traversal|
 | 125 | Aug, 25 | | Leetcode: 145. Binary Tree Postorder Traversal|
 | 124 | Aug, 24 | | Leetcode: 564. Find the Closest Palindrome|
 | 123 | Aug, 23 | | Leetcode: 592. Fraction Addition and Subtraction|
