@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 129 | Aug, 29 | | Leetcode: 947. Most Stones Removed with Same Row or Column|
 | 128 | Aug, 28 | | Leetcode: 1905. Count Sub Islands|
 | 127 | Aug, 27 | Nginx configuration | Leetcode: 1514. Path with Maximum Probability|
 | 126 | Aug, 26 | | Leetcode: 590. N-ary Tree Postorder Traversal|
