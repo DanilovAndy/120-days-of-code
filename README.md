@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 131 | Aug, 31 | | Leetcode: 1514. Path with Maximum Probability|
 | 130 | Aug, 30 | | Leetcode: 2699. Modify Graph Edge Weights|
 | 129 | Aug, 29 | | Leetcode: 947. Most Stones Removed with Same Row or Column|
 | 128 | Aug, 28 | | Leetcode: 1905. Count Sub Islands|
