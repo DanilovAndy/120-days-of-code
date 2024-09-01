@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 132 | Sept, 1 | | Leetcode: 2022. Convert 1D Array Into 2D Array|
 | 131 | Aug, 31 | | Leetcode: 1514. Path with Maximum Probability|
 | 130 | Aug, 30 | | Leetcode: 2699. Modify Graph Edge Weights|
 | 129 | Aug, 29 | | Leetcode: 947. Most Stones Removed with Same Row or Column|
