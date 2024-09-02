@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 133 | Sept, 2 | | Leetcode: 1894. Find the Student that Will Replace the Chalk|
 | 132 | Sept, 1 | | Leetcode: 2022. Convert 1D Array Into 2D Array|
 | 131 | Aug, 31 | | Leetcode: 1514. Path with Maximum Probability|
 | 130 | Aug, 30 | | Leetcode: 2699. Modify Graph Edge Weights|
