@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 135 | Sept, 4 | Stepik Course: Async Python | Leetcode: 874. Walking Robot Simulation|
 | 134 | Sept, 3 | Stepik Course: Async Python | Leetcode: 1945. Sum of Digits of String After Convert|
 | 133 | Sept, 2 | | Leetcode: 1894. Find the Student that Will Replace the Chalk|
 | 132 | Sept, 1 | | Leetcode: 2022. Convert 1D Array Into 2D Array|
