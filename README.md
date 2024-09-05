@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 135 | Sept, 4 | Stepik Course: Async Python. Awaitable Objects | Leetcode: 2028. Find Missing Observations|
+| 136 | Sept, 5 | Stepik Course: Async Python. Awaitable Objects | Leetcode: 2028. Find Missing Observations|
 | 135 | Sept, 4 | Stepik Course: Async Python | Leetcode: 874. Walking Robot Simulation|
 | 134 | Sept, 3 | Stepik Course: Async Python | Leetcode: 1945. Sum of Digits of String After Convert|
 | 133 | Sept, 2 | | Leetcode: 1894. Find the Student that Will Replace the Chalk|
