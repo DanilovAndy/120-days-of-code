@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 138 | Sept, 7 | Stepik Course: Async Python. Futures | Leetcode: 1367. Linked List in Binary Tree|
 | 137 | Sept, 6 | Stepik Course: Async Python. Tasks | Leetcode: 3217. Delete Nodes From Linked List Present in Array|
 | 136 | Sept, 5 | Stepik Course: Async Python. Awaitable Objects | Leetcode: 2028. Find Missing Observations|
 | 135 | Sept, 4 | Stepik Course: Async Python | Leetcode: 874. Walking Robot Simulation|
