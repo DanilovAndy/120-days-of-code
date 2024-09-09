@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 140 | Sept, 9 | | Leetcode: 2326. Spiral Matrix IV|
 | 139 | Sept, 8 | Stepik Course: Async Python. Event loop, await, polling, long polling | Leetcode: 725. Split Linked List in Parts|
 | 138 | Sept, 7 | Stepik Course: Async Python. Futures | Leetcode: 1367. Linked List in Binary Tree|
 | 137 | Sept, 6 | Stepik Course: Async Python. Tasks | Leetcode: 3217. Delete Nodes From Linked List Present in Array|
