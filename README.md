@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 141 | Sept, 10 | Stepik Course: Async Python. Task creatiun, ensure future| Leetcode: 2807. Insert Greatest Common Divisors in Linked List|
 | 140 | Sept, 9 | Stepik Course: Async Python. Asyncio base methods| Leetcode: 2326. Spiral Matrix IV|
 | 139 | Sept, 8 | Stepik Course: Async Python. Event loop, await, polling, long polling | Leetcode: 725. Split Linked List in Parts|
 | 138 | Sept, 7 | Stepik Course: Async Python. Futures | Leetcode: 1367. Linked List in Binary Tree|
