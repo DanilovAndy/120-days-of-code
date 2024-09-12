@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 143 | Sept, 12 | Stepik Course: Async Python. wait, as_completed, get_current_loop, etc| Leetcode: 1684. Count the Number of Consistent Strings|
 | 142 | Sept, 11 | Stepik Course: Async Python. gather, wait for, shield| Leetcode: 2220. Minimum Bit Flips to Convert Number|
 | 141 | Sept, 10 | Stepik Course: Async Python. Task creation, ensure future| Leetcode: 2807. Insert Greatest Common Divisors in Linked List|
 | 140 | Sept, 9 | Stepik Course: Async Python. Asyncio base methods| Leetcode: 2326. Spiral Matrix IV|
