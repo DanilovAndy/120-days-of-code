@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 148 | Sept, 17 | Stepik Course: Async Python. all tasks, working with current task | Leetcode: 884. Uncommon Words from Two Sentences |
 | 147 | Sept, 16 | Stepik Course: Async Python. task status and result | Leetcode: 539. Minimum Time Difference|
 | 146 | Sept, 15 | | Leetcode: 1371. Find the Longest Substring Containing Vowels in Even Counts|
 | 145 | Sept, 14 | | Leetcode: 2419. Longest Subarray With Maximum Bitwise AND <br>Participated Leetcode Contest (Rank 6828 / 35721)|
