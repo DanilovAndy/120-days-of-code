@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 151 | Sept, 20 | | Leetcode: 214. Shortest Palindrome|
 | 150 | Sept, 19 | Stepik Course: Async Python. get coro, get loop | Booking FastAPI project: project deploy and nginx configuration .  <br/>Leetcode: 241. Different Ways to Add Parentheses|
 | 149 | Sept, 18 | Stepik Course: Async Python. get/set name, cancelling. exceptions | Leetcode: 179. Largest Number|
 | 148 | Sept, 17 | Stepik Course: Async Python. all tasks, working with current task | Leetcode: 884. Uncommon Words from Two Sentences |
