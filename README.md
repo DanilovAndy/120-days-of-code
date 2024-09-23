@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 154 | Sept, 23 || Leetcode: 2707. Extra Characters in a String|
 | 153 | Sept, 22 || Leetcode: 440. K-th Smallest in Lexicographical Order|
 | 152 | Sept, 21 || Leetcode: 386. Lexicographical Numbers |
 | 151 | Sept, 20 | Stepik Course: Async Python. task stack, task done callback | Leetcode: 214. Shortest Palindrome |
