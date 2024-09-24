@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 155 | Sept, 24 || Leetcode: 3043. Find the Length of the Longest Common Prefix|
 | 154 | Sept, 23 || Leetcode: 2707. Extra Characters in a String|
 | 153 | Sept, 22 || Leetcode: 440. K-th Smallest in Lexicographical Order|
 | 152 | Sept, 21 || Leetcode: 386. Lexicographical Numbers |
