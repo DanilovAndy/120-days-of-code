@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 158 | Sept, 27 || Leetcode: 731. My Calendar II|
 | 157 | Sept, 26 || Leetcode: 729. My Calendar I|
 | 156 | Sept, 25 || Leetcode: 2416. Sum of Prefix Scores of Strings|
 | 155 | Sept, 24 || Leetcode: 3043. Find the Length of the Longest Common Prefix|
