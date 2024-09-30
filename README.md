@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 161 | Sept, 30 || Leetcode: 1381. Design a Stack With Increment Operation|
 | 160 | Sept, 29 || Leetcode: 432. All O`one Data Structure|
 | 159 | Sept, 28 || Leetcode: 641. Design Circular Deque|
 | 158 | Sept, 27 || Leetcode: 731. My Calendar II|
