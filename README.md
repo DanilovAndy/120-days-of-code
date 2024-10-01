@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 162 | Oct, 1 |SQL Study plan| Leetcode: 1497. Check If Array Pairs Are Divisible by k, <br/> 45. Jump Game II|
+| 162 | Oct, 1 |SQL Study plan| Leetcode: 1497. Check If Array Pairs Are Divisible by k, <br/> 45. Jump Game II, 3307. Find the K-th Character in String Game II|
 | 161 | Sept, 30 |Obsidian| Leetcode: 1381. Design a Stack With Increment Operation, <br/> 3306. Count of Substrings Containing Every Vowel and K Consonants II|
 | 160 | Sept, 29 || Leetcode: 432. All O`one Data Structure|
 | 159 | Sept, 28 || Leetcode: 641. Design Circular Deque|
