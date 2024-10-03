@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 164 | Oct, 3 || Leetcode: 1590. Make Sum Divisible by P <br/>Various SQL Problems|
 | 163 | Oct, 2 || Leetcode: 1331. Rank Transform of an Array <br/>Various SQL Problems|
 | 162 | Oct, 1 |SQL Study plan| Leetcode: 1497. Check If Array Pairs Are Divisible by k, <br/> 45. Jump Game II, 3307. Find the K-th Character in String Game II|
 | 161 | Sept, 30 |Obsidian| Leetcode: 1381. Design a Stack With Increment Operation, <br/> 3306. Count of Substrings Containing Every Vowel and K Consonants II|
