@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 167 | Oct, 6 || Leetcode: 1813. Sentence Similarity III <br/>Various SQL Problems <br>Participated Leetcode Contest (Rank 6828 / 35721)|
+| 167 | Oct, 6 || Leetcode: 1813. Sentence Similarity III <br/>Various SQL Problems <br>Participated Leetcode Contest (Rank 5066 / 34628)|
 | 166 | Oct, 5 || Leetcode: 567. Permutation in String <br/>Various SQL Problems|
 | 165 | Oct, 4 || Leetcode: Divide Players Into Teams of Equal Skill <br/>Various SQL Problems|
 | 164 | Oct, 3 || Leetcode: 1590. Make Sum Divisible by P <br/>Various SQL Problems|
