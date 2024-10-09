@@ -2,7 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 169 | Oct, 8 || Leetcode: 1963. Minimum Number of Swaps to Make the String Balanced|
+| 170 | Oct, 9 || Leetcode: 921. Minimum Add to Make Parentheses Valid <br/>Various SQL Problems|
+| 169 | Oct, 8 || Leetcode: 1963. Minimum Number of Swaps to Make the String Balanced <br/>Various SQL Problems|
 | 168 | Oct, 7 || Leetcode: 2696. Minimum String Length After Removing Substrings|
 | 167 | Oct, 6 || Leetcode: 1813. Sentence Similarity III <br>Participated Leetcode Contest (Rank 5066 / 34628)|
 | 166 | Oct, 5 || Leetcode: 567. Permutation in String <br/>Various SQL Problems|
