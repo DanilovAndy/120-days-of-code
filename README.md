@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 171 | Oct, 10 || Leetcode: 962. Maximum Width Ramp <br/>Various SQL Problems|
 | 170 | Oct, 9 || Leetcode: 921. Minimum Add to Make Parentheses Valid <br/>Various SQL Problems|
 | 169 | Oct, 8 || Leetcode: 1963. Minimum Number of Swaps to Make the String Balanced <br/>Various SQL Problems|
 | 168 | Oct, 7 || Leetcode: 2696. Minimum String Length After Removing Substrings|
