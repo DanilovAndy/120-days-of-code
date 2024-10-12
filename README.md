@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 173 | Oct, 12 || Leetcode: Various Problems <br>Participated Leetcode Contest (Rank 3357 / 29884)|
 | 172 | Oct, 11 || Leetcode: The Number of the Smallest Unoccupied Chair <br/>Various SQL Problems|
 | 171 | Oct, 10 || Leetcode: 962. Maximum Width Ramp <br/>Various SQL Problems|
 | 170 | Oct, 9 || Leetcode: 921. Minimum Add to Make Parentheses Valid <br/>Various SQL Problems|
