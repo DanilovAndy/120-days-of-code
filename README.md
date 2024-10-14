@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 175 | Oct, 14 || Leetcode: 2530. Maximal Score After Applying K Operations|
 | 174 | Oct, 13 || Leetcode: 632. Smallest Range Covering Elements from K Lists <br>3320. Count The Number of Winning Sequences|
 | 173 | Oct, 12 || Leetcode: Various Problems <br>Participated Leetcode Contest (Rank 3357 / 29884)|
 | 172 | Oct, 11 || Leetcode: The Number of the Smallest Unoccupied Chair <br/>Various SQL Problems|
