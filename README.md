@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 177 | Oct, 16 || Leetcode: 1405. Longest Happy String|
 | 176 | Oct, 15 || Leetcode: 2938. Separate Black and White Balls|
 | 175 | Oct, 14 || Leetcode: 2530. Maximal Score After Applying K Operations|
 | 174 | Oct, 13 || Leetcode: 632. Smallest Range Covering Elements from K Lists <br>3320. Count The Number of Winning Sequences|
