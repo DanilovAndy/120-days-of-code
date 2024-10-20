@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 179 | Oct, 18 || Leetcode: 2044. Count Number of Maximum Bitwise-OR Subsets <br> Booking FastAPI project: add frontend pages|
 | 178 | Oct, 17 || Leetcode: 670. Maximum Swap|
 | 177 | Oct, 16 || Leetcode: 1405. Longest Happy String|
 | 176 | Oct, 15 || Leetcode: 2938. Separate Black and White Balls|
