@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 181 | Oct, 20 || Leetcode: 1106. Parsing A Boolean Expression|
 | 180 | Oct, 19 || Leetcode: 1545. Find Kth Bit in Nth Binary String <br> Booking FastAPI project: fix frontend pages layout|
 | 179 | Oct, 18 || Leetcode: 2044. Count Number of Maximum Bitwise-OR Subsets <br> Booking FastAPI project: add frontend pages|
 | 178 | Oct, 17 || Leetcode: 670. Maximum Swap|
