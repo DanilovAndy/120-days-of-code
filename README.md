@@ -2,6 +2,14 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 189 | Oct, 28 || Leetcode: 1277. Count Square Submatrices with All Ones <br> Booking FastAPI project: write dates normaliser dependency for query parameters|
+| 188 | Oct, 27 || Leetcode: 3331. Find Subtree Sizes After Changes <br> Booking FastAPI project: remove images to s3|
+| 187 | Oct, 26 || Leetcode: 2458. Height of Binary Tree After Subtree Removal Queries <br> Participated Leetcode Contest (Rank 1318 / 26808)
+| 186 | Oct, 25 || Leetcode: 3332. Maximum Points Tourist Can Earn <br> Booking FastAPI project: add dynamic checking if user logged in|
+| 185 | Oct, 24 || Leetcode: 3330. Find the Original Typed String I <br> Booking FastAPI project: add pydantic validators and error handlers|
+| 184 | Oct, 23 || Leetcode: 1233. Remove Sub-Folders from the Filesystem <br> Booking FastAPI project: fix and refactor endpoint urls|
+| 183 | Oct, 22 || Leetcode: 951. Flip Equivalent Binary Trees <br> Booking FastAPI project: js buttons and CORS|
+| 182 | Oct, 21 || Leetcode: 2641. Cousins in Binary Tree II|
 | 181 | Oct, 20 || Leetcode: 1106. Parsing A Boolean Expression|
 | 180 | Oct, 19 || Leetcode: 1545. Find Kth Bit in Nth Binary String <br> Booking FastAPI project: fix frontend pages layout|
 | 179 | Oct, 18 || Leetcode: 2044. Count Number of Maximum Bitwise-OR Subsets <br> Booking FastAPI project: add frontend pages|
