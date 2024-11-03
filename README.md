@@ -2,6 +2,12 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 195 | Nov, 03 || Leetcode: 796. Rotate String <br> Booking FastAPI project: make dropdown nav|
+| 194 | Nov, 02 || Leetcode: 1957. Delete Characters to Make Fancy String <br> Booking FastAPI project: work on separate js script logic|
+| 193 | Nov, 01 || Leetcode: 2463. Minimum Total Distance Traveled|
+| 192 | Oct, 31 || Leetcode: 1671. Minimum Number of Removals to Make Mountain Array|
+| 191 | Oct, 30 || Leetcode: 2684. Maximum Number of Moves in a Grid <br> Booking FastAPI project: create query and body parameters normaliser for dates|
+| 190 | Oct, 29 || Leetcode: 2501. Longest Square Streak in an Array <br> Booking FastAPI project: make location as optional searching parameter|
 | 189 | Oct, 28 || Leetcode: 1277. Count Square Submatrices with All Ones <br> Booking FastAPI project: write dates normaliser dependency for query parameters|
 | 188 | Oct, 27 || Leetcode: 3331. Find Subtree Sizes After Changes <br> Booking FastAPI project: remove images to s3|
 | 187 | Oct, 26 || Leetcode: 2458. Height of Binary Tree After Subtree Removal Queries <br> Participated Leetcode Contest (Rank 1318 / 26808)
