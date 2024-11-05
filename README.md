@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 197 | Nov, 05 || Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful |
 | 196 | Nov, 04 || Leetcode: 3163. String Compression III |
 | 195 | Nov, 03 || Leetcode: 796. Rotate String <br> Booking FastAPI project: make dropdown nav|
 | 194 | Nov, 02 || Leetcode: 1957. Delete Characters to Make Fancy String <br> Booking FastAPI project: work on separate js script logic|
