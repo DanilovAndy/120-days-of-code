@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 198 | Nov, 06 || Leetcode: 3011. Find if Array Can Be Sorted |
 | 197 | Nov, 05 || Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful |
 | 196 | Nov, 04 || Leetcode: 3163. String Compression III |
 | 195 | Nov, 03 || Leetcode: 796. Rotate String <br> Booking FastAPI project: make dropdown nav|
