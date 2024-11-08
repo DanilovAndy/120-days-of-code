@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 199 | Nov, 07 || Leetcode: 1829. Maximum XOR for Each Query |
 | 198 | Nov, 06 || Leetcode: 3011. Find if Array Can Be Sorted |
 | 197 | Nov, 05 || Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful |
 | 196 | Nov, 04 || Leetcode: 3163. String Compression III |
