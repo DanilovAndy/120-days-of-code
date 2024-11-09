@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 201 | Nov, 09 || Leetcode: 3133. Minimum Array End <br>Participated Leetcode Contest (Rank 513 / 27473) |
 | 200 | Nov, 08 || Leetcode: 1829. Maximum XOR for Each Query |
 | 199 | Nov, 07 || Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero |
 | 198 | Nov, 06 || Leetcode: 3011. Find if Array Can Be Sorted |
