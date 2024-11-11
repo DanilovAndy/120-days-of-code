@@ -2,7 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 202 | Nov, 10 || Leetcode: 3097. Shortest Subarray With OR at Least K II <br> Make sticky filters box |
+| 203 | Nov, 11 || Leetcode: 2601. Prime Subtraction Operation |
+| 202 | Nov, 10 || Leetcode: 3097. Shortest Subarray With OR at Least K II <br> Booking FastAPI project: Make sticky filters box |
 | 201 | Nov, 09 || Leetcode: 3133. Minimum Array End <br>Participated Leetcode Contest (Rank 513 / 27473) |
 | 200 | Nov, 08 || Leetcode: 1829. Maximum XOR for Each Query |
 | 199 | Nov, 07 || Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero |
