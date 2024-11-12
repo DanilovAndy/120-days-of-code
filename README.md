@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 204 | Nov, 12 || Leetcode: 2070. Most Beautiful Item for Each Query |
 | 203 | Nov, 11 || Leetcode: 2601. Prime Subtraction Operation |
 | 202 | Nov, 10 || Leetcode: 3097. Shortest Subarray With OR at Least K II <br> Booking FastAPI project: Make sticky filters box |
 | 201 | Nov, 09 || Leetcode: 3133. Minimum Array End <br>Participated Leetcode Contest (Rank 513 / 27473) |
