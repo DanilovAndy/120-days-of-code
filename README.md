@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 205 | Nov, 13 || Leetcode: 2563. Count the Number of Fair Pairs|
 | 204 | Nov, 12 || Leetcode: 2070. Most Beautiful Item for Each Query |
 | 203 | Nov, 11 || Leetcode: 2601. Prime Subtraction Operation |
 | 202 | Nov, 10 || Leetcode: 3097. Shortest Subarray With OR at Least K II <br> Booking FastAPI project: Make sticky filters box |
