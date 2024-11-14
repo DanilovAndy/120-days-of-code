@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 206 | Nov, 14 || Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store|
 | 205 | Nov, 13 || Leetcode: 2563. Count the Number of Fair Pairs|
 | 204 | Nov, 12 || Leetcode: 2070. Most Beautiful Item for Each Query |
 | 203 | Nov, 11 || Leetcode: 2601. Prime Subtraction Operation |
