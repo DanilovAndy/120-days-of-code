@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 207 | Nov, 16 || Leetcode: 3254. Find the Power of K-Size Subarrays I|
 | 207 | Nov, 15 || Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sorted|
 | 206 | Nov, 14 || Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store|
 | 205 | Nov, 13 || Leetcode: 2563. Count the Number of Fair Pairs|
