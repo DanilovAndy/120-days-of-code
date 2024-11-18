@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 210 | Nov, 18 || Leetcode: 1652. Defuse the Bomb|
 | 209 | Nov, 17 || Leetcode: 862. Shortest Subarray with Sum at Least K|
 | 208 | Nov, 16 || Leetcode: 3254. Find the Power of K-Size Subarrays I|
 | 207 | Nov, 15 || Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sorted|
