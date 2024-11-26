@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 218 | Nov, 26 || Leetcode: 2924. Find Champion II|
 | 217 | Nov, 25 || Leetcode: 773. Sliding Puzzle|
 | 216 | Nov, 24 || Leetcode: 1975. Maximum Matrix Sum|
 | 215 | Nov, 23 || Leetcode: 1861. Rotating the Box <br>Participated Leetcode Contest (Rank 7115 / 22517) |
