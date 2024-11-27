@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 219 | Nov, 27 || Leetcode: 3243. Shortest Distance After Road Addition Queries I|
 | 218 | Nov, 26 || Leetcode: 2924. Find Champion II|
 | 217 | Nov, 25 || Leetcode: 773. Sliding Puzzle|
 | 216 | Nov, 24 || Leetcode: 1975. Maximum Matrix Sum|
