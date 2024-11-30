@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 222 | Nov, 30 || Leetcode: 2097. Valid Arrangement of Pairs|
 | 221 | Nov, 29 || Leetcode: 2577. Minimum Time to Visit a Cell In a Grid <br> Booking FastAPI project: rewrite jwt auth core. add models, schemas, dao|
 | 220 | Nov, 28 || Leetcode: 2290. Minimum Obstacle Removal to Reach Corner <br> Booking FastAPI project: rewrite jwt auth core. add refresh token dependecies, blacklist tokens model|
 | 219 | Nov, 27 || Leetcode: 3243. Shortest Distance After Road Addition Queries I|
