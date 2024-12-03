@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 225 | Dec, 03 || Leetcode: 2109. Adding Spaces to a String|
 | 224 | Dec, 02 || Leetcode: 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence|
 | 223 | Dec, 01 || Leetcode: 1346. Check If N and Its Double Exist|
 | 222 | Nov, 30 || Leetcode: 2097. Valid Arrangement of Pairs|
