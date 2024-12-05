@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 227 | Dec, 05 || Leetcode: 2337. Move Pieces to Obtain a String|
 | 226 | Dec, 04 || Leetcode: 2825. Make String a Subsequence Using Cyclic Increments|
 | 225 | Dec, 03 || Leetcode: 2109. Adding Spaces to a String|
 | 224 | Dec, 02 || Leetcode: 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence|
