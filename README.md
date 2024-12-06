@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 228 | Dec, 06 || Leetcode: 2554. Maximum Number of Integers to Choose From a Range I|
 | 227 | Dec, 05 || Leetcode: 2337. Move Pieces to Obtain a String|
 | 226 | Dec, 04 || Leetcode: 2825. Make String a Subsequence Using Cyclic Increments|
 | 225 | Dec, 03 || Leetcode: 2109. Adding Spaces to a String|
