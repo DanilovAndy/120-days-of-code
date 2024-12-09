@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 231 | Dec, 09 || Leetcode: 3152. Special Array II|
 | 230 | Dec, 08 || Leetcode: 2054. Two Best Non-Overlapping Events|
 | 229 | Dec, 07 || Leetcode: 1760. Minimum Limit of Balls in a Bag|
 | 228 | Dec, 06 || Leetcode: 2554. Maximum Number of Integers to Choose From a Range I|
