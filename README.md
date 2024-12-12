@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 234 | Dec, 12 || Leetcode: 2558. Take Gifts From the Richest Pile|
 | 233 | Dec, 11 || Leetcode: 2779. Maximum Beauty of an Array After Applying Operation|
 | 232 | Dec, 10 || Leetcode: 2981. Find Longest Special Substring That Occurs Thrice I|
 | 231 | Dec, 09 || Leetcode: 3152. Special Array II|
