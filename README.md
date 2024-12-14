@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 236 | Dec, 14 || Leetcode: 2762. Continuous Subarrays|
 | 235 | Dec, 13 || Leetcode: 2593. Find Score of an Array After Marking All Elements|
 | 234 | Dec, 12 || Leetcode: 2558. Take Gifts From the Richest Pile|
 | 233 | Dec, 11 || Leetcode: 2779. Maximum Beauty of an Array After Applying Operation|
