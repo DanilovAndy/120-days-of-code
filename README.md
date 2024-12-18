@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 240 | Dec, 18 || Leetcode: 1475. Final Prices With a Special Discount in a Shop|
 | 239 | Dec, 17 || Leetcode: 2182. Construct String With Repeat Limit|
 | 238 | Dec, 16 || Leetcode: 3264. Final Array State After K Multiplication Operations I|
 | 237 | Dec, 15 || Leetcode: 1792. Maximum Average Pass Ratio|
