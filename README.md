@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 243 | Dec, 21 || Leetcode: 2872. Maximum Number of K-Divisible Components|
 | 242 | Dec, 20 || Leetcode: 2415. Reverse Odd Levels of Binary Tree|
 | 241 | Dec, 19 || Leetcode: 769. Max Chunks To Make Sorted|
 | 240 | Dec, 18 || Leetcode: 1475. Final Prices With a Special Discount in a Shop|
