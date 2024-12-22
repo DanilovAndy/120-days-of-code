@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 244 | Dec, 22 || Leetcode: 2940. Find Building Where Alice and Bob Can Meet|
 | 243 | Dec, 21 || Leetcode: 2872. Maximum Number of K-Divisible Components|
 | 242 | Dec, 20 || Leetcode: 2415. Reverse Odd Levels of Binary Tree|
 | 241 | Dec, 19 || Leetcode: 769. Max Chunks To Make Sorted|
