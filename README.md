@@ -2,7 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 245 | Dec, 24 || Leetcode: 3203. Find Minimum Diameter After Merging Two Trees|
+| 247 | Dec, 25 || Leetcode: 515. Find Largest Value in Each Tree Row|
+| 246 | Dec, 24 || Leetcode: 3203. Find Minimum Diameter After Merging Two Trees|
 | 245 | Dec, 23 || Leetcode: 2471. Minimum Number of Operations to Sort a Binary Tree by Level|
 | 244 | Dec, 22 || Leetcode: 2940. Find Building Where Alice and Bob Can Meet|
 | 243 | Dec, 21 || Leetcode: 2872. Maximum Number of K-Divisible Components|
