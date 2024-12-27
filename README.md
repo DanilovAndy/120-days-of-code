@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 249 | Dec, 27 || Leetcode: 1014. Best Sightseeing Pair|
 | 248 | Dec, 26 || Leetcode: 494. Target Sum|
 | 247 | Dec, 25 || Leetcode: 515. Find Largest Value in Each Tree Row|
 | 246 | Dec, 24 || Leetcode: 3203. Find Minimum Diameter After Merging Two Trees|
