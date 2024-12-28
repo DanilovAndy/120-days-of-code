@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 250 | Dec, 28 || Leetcode: 689. Maximum Sum of 3 Non-Overlapping Subarrays|
 | 249 | Dec, 27 || Leetcode: 1014. Best Sightseeing Pair|
 | 248 | Dec, 26 || Leetcode: 494. Target Sum|
 | 247 | Dec, 25 || Leetcode: 515. Find Largest Value in Each Tree Row|
