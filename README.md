@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 252 | Dec, 30 || Leetcode: 2466. Count Ways To Build Good Strings|
 | 251 | Dec, 29 || Leetcode: 1639. Number of Ways to Form a Target String Given a Dictionary|
 | 250 | Dec, 28 || Leetcode: 689. Maximum Sum of 3 Non-Overlapping Subarrays|
 | 249 | Dec, 27 || Leetcode: 1014. Best Sightseeing Pair|
