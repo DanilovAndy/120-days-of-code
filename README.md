@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 256 | Jan, 03 || Leetcode: 2270. Number of Ways to Split Array |
 | 255 | Jan, 02 || Leetcode: 2559. Count Vowel Strings in Ranges |
 | 254 | Jan, 01 || Leetcode: 1422. Maximum Score After Splitting a String |
 | 253 | Dec, 31 || Leetcode: 983. Minimum Cost For Tickets|
