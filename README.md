@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 257 | Jan, 04 || Leetcode: 1930. Unique Length-3 Palindromic Subsequences <br>Participated Leetcode Contest (Rank 3665 / 26988) |
 | 256 | Jan, 03 || Leetcode: 2270. Number of Ways to Split Array |
 | 255 | Jan, 02 || Leetcode: 2559. Count Vowel Strings in Ranges |
 | 254 | Jan, 01 || Leetcode: 1422. Maximum Score After Splitting a String |
