@@ -2,7 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 259 | Jan, 06 || Leetcode: 2381. 1769. Minimum Number of Operations to Move All Balls to Each Box | 
+| 260 | Jan, 07 || Leetcode: 1408. String Matching in an Array | 
+| 259 | Jan, 06 || Leetcode: 1769. Minimum Number of Operations to Move All Balls to Each Box | 
 | 258 | Jan, 05 || Leetcode: 2381. Shifting Letters II |
 | 257 | Jan, 04 || Leetcode: 1930. Unique Length-3 Palindromic Subsequences <br>Participated Leetcode Contest (Rank 3665 / 26988) |
 | 256 | Jan, 03 || Leetcode: 2270. Number of Ways to Split Array |
