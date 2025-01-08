@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 261 | Jan, 08 || Leetcode: 3042. Count Prefix and Suffix Pairs I | 
 | 260 | Jan, 07 || Leetcode: 1408. String Matching in an Array | 
 | 259 | Jan, 06 || Leetcode: 1769. Minimum Number of Operations to Move All Balls to Each Box | 
 | 258 | Jan, 05 || Leetcode: 2381. Shifting Letters II |
