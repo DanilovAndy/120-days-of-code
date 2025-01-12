@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 265 | Jan, 12 || Leetcode: 2116. Check if a Parentheses String Can Be Valid|
 | 264 | Jan, 11 || Leetcode: 1400. Construct K Palindrome Strings| 
 | 263 | Jan, 10 || Leetcode: 916. Word Subsets | 
 | 262 | Jan, 09 || Leetcode: 2185. Counting Words With a Given Prefix | 
