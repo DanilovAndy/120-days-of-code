@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 267 | Jan, 14 || Leetcode: 2657. Find the Prefix Common Array of Two Arrays|
 | 266 | Jan, 13 || Leetcode: 3223. Minimum Length of String After Operations|
 | 265 | Jan, 12 || Leetcode: 2116. Check if a Parentheses String Can Be Valid|
 | 264 | Jan, 11 || Leetcode: 1400. Construct K Palindrome Strings| 
