@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 269 | Jan, 16 || Leetcode: 2425. Bitwise XOR of All Pairings|
 | 268 | Jan, 15 || Leetcode: 2429. Minimize XOR|
 | 267 | Jan, 14 || Leetcode: 2657. Find the Prefix Common Array of Two Arrays|
 | 266 | Jan, 13 || Leetcode: 3223. Minimum Length of String After Operations|
