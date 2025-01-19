@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 272 | Jan, 19 || Leetcode: 407. Trapping Rain Water II|
 | 271 | Jan, 18 || Leetcode: 1368. Minimum Cost to Make at Least One Valid Path in a Grid|
 | 270 | Jan, 17 || Leetcode: 2683. Neighboring Bitwise XOR|
 | 269 | Jan, 16 || Leetcode: 2425. Bitwise XOR of All Pairings|
