@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 274 | Jan, 21 || Leetcode: 2017. Grid Game |
 | 273 | Jan, 20 || Leetcode: 2661. First Completely Painted Row or Column |
 | 272 | Jan, 19 || Leetcode: 407. Trapping Rain Water II|
 | 271 | Jan, 18 || Leetcode: 1368. Minimum Cost to Make at Least One Valid Path in a Grid|
