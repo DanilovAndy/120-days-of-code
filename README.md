@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 276 | Jan, 23 || Leetcode: 1267. Count Servers that Communicate|
 | 275 | Jan, 22 || Leetcode: 1765. Map of Highest Peak |
 | 274 | Jan, 21 || Leetcode: 2017. Grid Game |
 | 273 | Jan, 20 || Leetcode: 2661. First Completely Painted Row or Column |
