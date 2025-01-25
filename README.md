@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 278 | Jan, 25 || Leetcode: 2948. Make Lexicographically Smallest Array by Swapping Elements|
 | 277 | Jan, 24 || Leetcode: 802. Find Eventual Safe States|
 | 276 | Jan, 23 || Leetcode: 1267. Count Servers that Communicate|
 | 275 | Jan, 22 || Leetcode: 1765. Map of Highest Peak |
