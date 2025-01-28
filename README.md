@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 281 | Jan, 28 || Leetcode: 2658. Maximum Number of Fish in a Grid|
 | 280 | Jan, 27 || Leetcode: 1462. Course Schedule IV|
 | 279 | Jan, 26 || Leetcode: 2127. Maximum Employees to Be Invited to a Meeting|
 | 278 | Jan, 25 || Leetcode: 2948. Make Lexicographically Smallest Array by Swapping Elements|
