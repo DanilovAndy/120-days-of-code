@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 282 | Jan, 29 || Leetcode: 684. Redundant Connection|
 | 281 | Jan, 28 || Leetcode: 2658. Maximum Number of Fish in a Grid|
 | 280 | Jan, 27 || Leetcode: 1462. Course Schedule IV|
 | 279 | Jan, 26 || Leetcode: 2127. Maximum Employees to Be Invited to a Meeting|
