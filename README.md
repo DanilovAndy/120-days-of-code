@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 284 | Jan, 31 || Leetcode: 827. Making A Large Island|
 | 283 | Jan, 30 || Leetcode: 2493. Divide Nodes Into the Maximum Number of Groups|
 | 282 | Jan, 29 || Leetcode: 684. Redundant Connection|
 | 281 | Jan, 28 || Leetcode: 2658. Maximum Number of Fish in a Grid|
