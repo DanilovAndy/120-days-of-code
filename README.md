@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 286 | Feb, 02 || Leetcode: 1752. Check if Array Is Sorted and Rotated|
 | 285 | Feb, 01 || Leetcode: 3151. Special Array I|
 | 284 | Jan, 31 || Leetcode: 827. Making A Large Island|
 | 283 | Jan, 30 || Leetcode: 2493. Divide Nodes Into the Maximum Number of Groups|
