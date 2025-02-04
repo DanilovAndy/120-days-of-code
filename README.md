@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 288 | Feb, 04 || Leetcode: 1800. Maximum Ascending Subarray Sum|
 | 287 | Feb, 03 || Leetcode: 3105. Longest Strictly Increasing or Strictly Decreasing Subarray|
 | 286 | Feb, 02 || Leetcode: 1752. Check if Array Is Sorted and Rotated|
 | 285 | Feb, 01 || Leetcode: 3151. Special Array I|
