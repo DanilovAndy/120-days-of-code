@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 289 | Feb, 05 || Leetcode: 1790. Check if One String Swap Can Make Strings Equal|
 | 288 | Feb, 04 || Leetcode: 1800. Maximum Ascending Subarray Sum|
 | 287 | Feb, 03 || Leetcode: 3105. Longest Strictly Increasing or Strictly Decreasing Subarray|
 | 286 | Feb, 02 || Leetcode: 1752. Check if Array Is Sorted and Rotated|
