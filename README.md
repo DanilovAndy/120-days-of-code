@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 292 | Feb, 08 || Leetcode: 2349. Design a Number Container System|
 | 291 | Feb, 07 || Leetcode: 3160. Find the Number of Distinct Colors Among the Balls|
 | 290 | Feb, 06 || Leetcode: 1726. Tuple with Same Product|
 | 289 | Feb, 05 || Leetcode: 1790. Check if One String Swap Can Make Strings Equal|
