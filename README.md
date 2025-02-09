@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 293 | Feb, 09 || Leetcode: 2364. Count Number of Bad Pairs|
 | 292 | Feb, 08 || Leetcode: 2349. Design a Number Container System|
 | 291 | Feb, 07 || Leetcode: 3160. Find the Number of Distinct Colors Among the Balls|
 | 290 | Feb, 06 || Leetcode: 1726. Tuple with Same Product|
