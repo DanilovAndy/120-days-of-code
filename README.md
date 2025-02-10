@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 294 | Feb, 10 || Leetcode: 3174. Clear Digits|
 | 293 | Feb, 09 || Leetcode: 2364. Count Number of Bad Pairs|
 | 292 | Feb, 08 || Leetcode: 2349. Design a Number Container System|
 | 291 | Feb, 07 || Leetcode: 3160. Find the Number of Distinct Colors Among the Balls|
