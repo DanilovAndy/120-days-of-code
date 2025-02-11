@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 295 | Feb, 11 || Leetcode: 1910. Remove All Occurrences of a Substring|
 | 294 | Feb, 10 || Leetcode: 3174. Clear Digits|
 | 293 | Feb, 09 || Leetcode: 2364. Count Number of Bad Pairs|
 | 292 | Feb, 08 || Leetcode: 2349. Design a Number Container System|
