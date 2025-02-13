@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 297 | Feb, 13 || Leetcode: 3066. Minimum Operations to Exceed Threshold Value II|
 | 296 | Feb, 12 || Leetcode: 2342. Max Sum of a Pair With Equal Sum of Digits|
 | 295 | Feb, 11 || Leetcode: 1910. Remove All Occurrences of a Substring|
 | 294 | Feb, 10 || Leetcode: 3174. Clear Digits|
