@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 299 | Feb, 15 || Leetcode: 2698. Find the Punishment Number of an Integer
 | 298 | Feb, 14 || Leetcode: 1352. Product of the Last K Numbers|
 | 297 | Feb, 13 || Leetcode: 3066. Minimum Operations to Exceed Threshold Value II|
 | 296 | Feb, 12 || Leetcode: 2342. Max Sum of a Pair With Equal Sum of Digits|
