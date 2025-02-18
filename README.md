@@ -1,7 +1,8 @@
 # 120-days-of-code
 
 | Day | Date | Studied | Practiced |
-| --- | --- | --- | --- 
+| --- | --- | --- | --- |
+| 302 | Feb, 18 || Leetcode: 2375. Construct Smallest Number From DI String|
 | 301 | Feb, 17 || Leetcode: 1079. Letter Tile Possibilities|
 | 300 | Feb, 16 || Leetcode: 1718. Construct the Lexicographically Largest Valid Sequence|
 | 299 | Feb, 15 || Leetcode: 2698. Find the Punishment Number of an Integer|
