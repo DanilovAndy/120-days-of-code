@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 304 | Feb, 20 || Leetcode: 1980. Find Unique Binary String|
 | 303 | Feb, 19 || Leetcode: 1415. The k-th Lexicographical String of All Happy Strings of Length n|
 | 302 | Feb, 18 || Leetcode: 2375. Construct Smallest Number From DI String|
 | 301 | Feb, 17 || Leetcode: 1079. Letter Tile Possibilities|
