@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 305 | Feb, 21 || Leetcode: 1261. Find Elements in a Contaminated Binary Tree|
 | 304 | Feb, 20 || Leetcode: 1980. Find Unique Binary String|
 | 303 | Feb, 19 || Leetcode: 1415. The k-th Lexicographical String of All Happy Strings of Length n|
 | 302 | Feb, 18 || Leetcode: 2375. Construct Smallest Number From DI String|
