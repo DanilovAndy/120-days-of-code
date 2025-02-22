@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 306 | Feb, 22 || Leetcode: 1028. Recover a Tree From Preorder Traversal|
 | 305 | Feb, 21 || Leetcode: 1261. Find Elements in a Contaminated Binary Tree|
 | 304 | Feb, 20 || Leetcode: 1980. Find Unique Binary String|
 | 303 | Feb, 19 || Leetcode: 1415. The k-th Lexicographical String of All Happy Strings of Length n|
