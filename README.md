@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 307 | Feb, 23 || Leetcode: 889. Construct Binary Tree from Preorder and Postorder Traversal|
 | 306 | Feb, 22 || Leetcode: 1028. Recover a Tree From Preorder Traversal|
 | 305 | Feb, 21 || Leetcode: 1261. Find Elements in a Contaminated Binary Tree|
 | 304 | Feb, 20 || Leetcode: 1980. Find Unique Binary String|
