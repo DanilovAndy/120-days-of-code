@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 309 | Feb, 25 || Leetcode: 1524. Number of Sub-arrays With Odd Sum|
 | 308 | Feb, 24 || Leetcode: 2467. Most Profitable Path in a Tree|
 | 307 | Feb, 23 || Leetcode: 889. Construct Binary Tree from Preorder and Postorder Traversal|
 | 306 | Feb, 22 || Leetcode: 1028. Recover a Tree From Preorder Traversal|
