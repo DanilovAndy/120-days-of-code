@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 310 | Feb, 26 || Leetcode: 1749. Maximum Absolute Sum of Any Subarray|
 | 309 | Feb, 25 || Leetcode: 1524. Number of Sub-arrays With Odd Sum|
 | 308 | Feb, 24 || Leetcode: 2467. Most Profitable Path in a Tree|
 | 307 | Feb, 23 || Leetcode: 889. Construct Binary Tree from Preorder and Postorder Traversal|
