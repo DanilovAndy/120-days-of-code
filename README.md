@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 312 | Feb, 28 || Leetcode: 1092. Shortest Common Supersequence|
 | 311 | Feb, 27 || Leetcode: 873. Length of Longest Fibonacci Subsequence|
 | 310 | Feb, 26 || Leetcode: 1749. Maximum Absolute Sum of Any Subarray|
 | 309 | Feb, 25 || Leetcode: 1524. Number of Sub-arrays With Odd Sum|
