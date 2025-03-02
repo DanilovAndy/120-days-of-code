@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 314 | Mar, 02 || Leetcode: 2570. Merge Two 2D Arrays by Summing Values|
 | 313 | Mar, 01 || Leetcode: 2460. Apply Operations to an Arraye|
 | 312 | Feb, 28 || Leetcode: 1092. Shortest Common Supersequence|
 | 311 | Feb, 27 || Leetcode: 873. Length of Longest Fibonacci Subsequence|
