@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 315 | Mar, 03 || Leetcode: 2161. Partition Array According to Given Pivot|
 | 314 | Mar, 02 || Leetcode: 2570. Merge Two 2D Arrays by Summing Values|
 | 313 | Mar, 01 || Leetcode: 2460. Apply Operations to an Arraye|
 | 312 | Feb, 28 || Leetcode: 1092. Shortest Common Supersequence|
