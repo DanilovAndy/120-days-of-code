@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 318 | Mar, 06 || Leetcode: 2965. Find Missing and Repeated Values|
 | 317 | Mar, 05 || Leetcode: 2579. Count Total Number of Colored Cells|
 | 316 | Mar, 04 || Leetcode: 1780. Check if Number is a Sum of Powers of Three|
 | 315 | Mar, 03 || Leetcode: 2161. Partition Array According to Given Pivot|
