@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 319 | Mar, 07 || Leetcode: 2523. Closest Prime Numbers in Range|
 | 318 | Mar, 06 || Leetcode: 2965. Find Missing and Repeated Values|
 | 317 | Mar, 05 || Leetcode: 2579. Count Total Number of Colored Cells|
 | 316 | Mar, 04 || Leetcode: 1780. Check if Number is a Sum of Powers of Three|
