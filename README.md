@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 320 | Mar, 08 || Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks|
 | 319 | Mar, 07 || Leetcode: 2523. Closest Prime Numbers in Range|
 | 318 | Mar, 06 || Leetcode: 2965. Find Missing and Repeated Values|
 | 317 | Mar, 05 || Leetcode: 2579. Count Total Number of Colored Cells|
