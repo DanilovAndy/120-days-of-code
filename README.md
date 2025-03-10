@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 322 | Mar, 10 || Leetcode: 3306. Count of Substrings Containing Every Vowel and K Consonants II|
 | 321 | Mar, 09 || Leetcode: 3208. Alternating Groups II|
 | 320 | Mar, 08 || Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks|
 | 319 | Mar, 07 || Leetcode: 2523. Closest Prime Numbers in Range|
