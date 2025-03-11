@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 323 | Mar, 11 || Leetcode: 1358. Number of Substrings Containing All Three Characters|
 | 322 | Mar, 10 || Leetcode: 3306. Count of Substrings Containing Every Vowel and K Consonants II|
 | 321 | Mar, 09 || Leetcode: 3208. Alternating Groups II|
 | 320 | Mar, 08 || Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks|
