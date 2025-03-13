@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 325 | Mar, 13 || Leetcode: 3356. Zero Array Transformation II|
 | 324 | Mar, 12 || Leetcode: 2529. Maximum Count of Positive Integer and Negative Integer|
 | 323 | Mar, 11 || Leetcode: 1358. Number of Substrings Containing All Three Characters|
 | 322 | Mar, 10 || Leetcode: 3306. Count of Substrings Containing Every Vowel and K Consonants II|
