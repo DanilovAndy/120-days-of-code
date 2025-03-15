@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 327 | Mar, 15 || Leetcode: 2560. House Robber IV|
 | 326 | Mar, 14 || Leetcode: 2226. Maximum Candies Allocated to K Children|
 | 325 | Mar, 13 || Leetcode: 3356. Zero Array Transformation II|
 | 324 | Mar, 12 || Leetcode: 2529. Maximum Count of Positive Integer and Negative Integer|
