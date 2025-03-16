@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 328 | Mar, 16 || Leetcode: 2594. Minimum Time to Repair Cars|
 | 327 | Mar, 15 || Leetcode: 2560. House Robber IV|
 | 326 | Mar, 14 || Leetcode: 2226. Maximum Candies Allocated to K Children|
 | 325 | Mar, 13 || Leetcode: 3356. Zero Array Transformation II|
