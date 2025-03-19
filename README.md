@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 331 | Mar, 19 || Leetcode: 3191. Minimum Operations to Make Binary Array Elements Equal to One I|
 | 330 | Mar, 18 || Leetcode: 2401. Longest Nice Subarray|
 | 329 | Mar, 17 || Leetcode: 2206. Divide Array Into Equal Pairs|
 | 328 | Mar, 16 || Leetcode: 2594. Minimum Time to Repair Cars|
