@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 332 | Mar, 20 || Leetcode: 3108. Minimum Cost Walk in Weighted Graph|
 | 331 | Mar, 19 || Leetcode: 3191. Minimum Operations to Make Binary Array Elements Equal to One I|
 | 330 | Mar, 18 || Leetcode: 2401. Longest Nice Subarray|
 | 329 | Mar, 17 || Leetcode: 2206. Divide Array Into Equal Pairs|
