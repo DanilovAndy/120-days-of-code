@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 334 | Mar, 22 || Leetcode: 2685. Count the Number of Complete Components|
 | 333 | Mar, 21 || Leetcode: 2115. Find All Possible Recipes from Given Supplies|
 | 332 | Mar, 20 || Leetcode: 3108. Minimum Cost Walk in Weighted Graph|
 | 331 | Mar, 19 || Leetcode: 3191. Minimum Operations to Make Binary Array Elements Equal to One I|
