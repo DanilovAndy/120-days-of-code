@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 338 | Mar, 26 || Leetcode: 2033. Minimum Operations to Make a Uni-Value Grid|
 | 337 | Mar, 25 || Leetcode: 3394. Check if Grid can be Cut into Sections|
 | 336 | Mar, 24 || Leetcode: 3169. Count Days Without Meetings|
 | 335 | Mar, 23 || Leetcode: 1976. Number of Ways to Arrive at Destination|
