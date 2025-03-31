@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 343 | Mar, 31 || Leetcode: 2551. Put Marbles in Bags|
 | 342 | Mar, 30 || Leetcode: 763. Partition Labels|
 | 341 | Mar, 29 || Leetcode: 2818. Apply Operations to Maximize Score|
 | 340 | Mar, 28 || Leetcode: 2503. Maximum Number of Points From Grid Queries|
