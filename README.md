@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 344 | Apr, 01 || Leetcode: 2140. Solving Questions With Brainpower|
 | 343 | Mar, 31 || Leetcode: 2551. Put Marbles in Bags|
 | 342 | Mar, 30 || Leetcode: 763. Partition Labels|
 | 341 | Mar, 29 || Leetcode: 2818. Apply Operations to Maximize Score|
