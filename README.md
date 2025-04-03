@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 346 | Apr, 03 || Leetcode: 2874. Maximum Value of an Ordered Triplet II|
 | 345 | Apr, 02 || Leetcode: 2873. Maximum Value of an Ordered Triplet I|
 | 344 | Apr, 01 || Leetcode: 2140. Solving Questions With Brainpower|
 | 343 | Mar, 31 || Leetcode: 2551. Put Marbles in Bags|
