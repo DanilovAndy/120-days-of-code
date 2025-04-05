@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 348 | Apr, 05 || Leetcode: 1863. Sum of All Subset XOR Totals|
 | 347 | Apr, 04 || Leetcode: 1123. Lowest Common Ancestor of Deepest Leaves|
 | 346 | Apr, 03 || Leetcode: 2874. Maximum Value of an Ordered Triplet II|
 | 345 | Apr, 02 || Leetcode: 2873. Maximum Value of an Ordered Triplet I|
