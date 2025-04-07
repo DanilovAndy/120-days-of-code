@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 350 | Apr, 07 || Leetcode: 416. Partition Equal Subset Sum|
 | 349 | Apr, 06 || Leetcode: 368. Largest Divisible Subset|
 | 348 | Apr, 05 || Leetcode: 1863. Sum of All Subset XOR Totals|
 | 347 | Apr, 04 || Leetcode: 1123. Lowest Common Ancestor of Deepest Leaves|
