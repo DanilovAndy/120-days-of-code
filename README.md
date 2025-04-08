@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 351 | Apr, 08 || Leetcode: 3396. Minimum Number of Operations to Make Elements in Array Distinct|
 | 350 | Apr, 07 || Leetcode: 416. Partition Equal Subset Sum|
 | 349 | Apr, 06 || Leetcode: 368. Largest Divisible Subset|
 | 348 | Apr, 05 || Leetcode: 1863. Sum of All Subset XOR Totals|
