@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 352 | Apr, 09 || Leetcode: 3375. Minimum Operations to Make Array Values Equal to K|
 | 351 | Apr, 08 || Leetcode: 3396. Minimum Number of Operations to Make Elements in Array Distinct|
 | 350 | Apr, 07 || Leetcode: 416. Partition Equal Subset Sum|
 | 349 | Apr, 06 || Leetcode: 368. Largest Divisible Subset|
