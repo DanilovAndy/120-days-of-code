@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 354 | Apr, 11 || Leetcode: 2843. Count Symmetric Integers|
 | 353 | Apr, 10 || Leetcode: 2999. Count the Number of Powerful Integers|
 | 352 | Apr, 09 || Leetcode: 3375. Minimum Operations to Make Array Values Equal to K|
 | 351 | Apr, 08 || Leetcode: 3396. Minimum Number of Operations to Make Elements in Array Distinct|
