@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 357 | Apr, 14 || Leetcode: 1534. Count Good Triplets|
 | 356 | Apr, 13 || Leetcode: 1922. Count Good Numbers|
 | 355 | Apr, 12 || Leetcode: 3272. Find the Count of Good Integers|
 | 354 | Apr, 11 || Leetcode: 2843. Count Symmetric Integers|
