@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 358 | Apr, 15 || Leetcode: 2179. Count Good Triplets in an Array|
 | 357 | Apr, 14 || Leetcode: 1534. Count Good Triplets|
 | 356 | Apr, 13 || Leetcode: 1922. Count Good Numbers|
 | 355 | Apr, 12 || Leetcode: 3272. Find the Count of Good Integers|
