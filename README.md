@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 359 | Apr, 16 || Leetcode: 2537. Count the Number of Good Subarrays|
 | 358 | Apr, 15 || Leetcode: 2179. Count Good Triplets in an Array|
 | 357 | Apr, 14 || Leetcode: 1534. Count Good Triplets|
 | 356 | Apr, 13 || Leetcode: 1922. Count Good Numbers|
