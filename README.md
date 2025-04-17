@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 360 | Apr, 17 || Leetcode: 2176. Count Equal and Divisible Pairs in an Array|
 | 359 | Apr, 16 || Leetcode: 2537. Count the Number of Good Subarrays|
 | 358 | Apr, 15 || Leetcode: 2179. Count Good Triplets in an Array|
 | 357 | Apr, 14 || Leetcode: 1534. Count Good Triplets|
