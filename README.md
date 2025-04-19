@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 362 | Apr, 19 || Leetcode: 2563. Count the Number of Fair Pairs|
 | 361 | Apr, 18 || Leetcode: 38. Count and Say|
 | 360 | Apr, 17 || Leetcode: 2176. Count Equal and Divisible Pairs in an Array|
 | 359 | Apr, 16 || Leetcode: 2537. Count the Number of Good Subarrays|
