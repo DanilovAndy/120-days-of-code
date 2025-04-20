@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 363 | Apr, 20 || Leetcode: 781. Rabbits in Forest|
 | 362 | Apr, 19 || Leetcode: 2563. Count the Number of Fair Pairs|
 | 361 | Apr, 18 || Leetcode: 38. Count and Say|
 | 360 | Apr, 17 || Leetcode: 2176. Count Equal and Divisible Pairs in an Array|
