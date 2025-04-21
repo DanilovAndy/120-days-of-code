@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 364 | Apr, 21 || Leetcode: 2145. Count the Hidden Sequences|
 | 363 | Apr, 20 || Leetcode: 781. Rabbits in Forest|
 | 362 | Apr, 19 || Leetcode: 2563. Count the Number of Fair Pairs|
 | 361 | Apr, 18 || Leetcode: 38. Count and Say|
