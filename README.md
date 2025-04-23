@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 366 | Apr, 23 || Leetcode: 1399. Count Largest Group|
 | 365 | Apr, 22 || Leetcode: 2338. Count the Number of Ideal Arrays|
 | 364 | Apr, 21 || Leetcode: 2145. Count the Hidden Sequences|
 | 363 | Apr, 20 || Leetcode: 781. Rabbits in Forest|
