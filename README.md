@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 367 | Apr, 24 || Leetcode: 2799. Count Complete Subarrays in an Array|
 | 366 | Apr, 23 || Leetcode: 1399. Count Largest Group|
 | 365 | Apr, 22 || Leetcode: 2338. Count the Number of Ideal Arrays|
 | 364 | Apr, 21 || Leetcode: 2145. Count the Hidden Sequences|
