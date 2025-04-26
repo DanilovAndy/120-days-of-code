@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 369 | Apr, 26 || Leetcode: 2444. Count Subarrays With Fixed Bounds|
 | 368 | Apr, 25 || Leetcode: 2845. Count of Interesting Subarrays|
 | 367 | Apr, 24 || Leetcode: 2799. Count Complete Subarrays in an Array|
 | 366 | Apr, 23 || Leetcode: 1399. Count Largest Group|
