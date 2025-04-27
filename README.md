@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 370 | Apr, 27 || Leetcode: 3392. Count Subarrays of Length Three With a Condition|
 | 369 | Apr, 26 || Leetcode: 2444. Count Subarrays With Fixed Bounds|
 | 368 | Apr, 25 || Leetcode: 2845. Count of Interesting Subarrays|
 | 367 | Apr, 24 || Leetcode: 2799. Count Complete Subarrays in an Array|
