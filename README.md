@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 372 | Apr, 29 || Leetcode: 2962. Count Subarrays Where Max Element Appears at Least K Times|
 | 371 | Apr, 28 || Leetcode: 2302. Count Subarrays With Score Less Than K|
 | 370 | Apr, 27 || Leetcode: 3392. Count Subarrays of Length Three With a Condition|
 | 369 | Apr, 26 || Leetcode: 2444. Count Subarrays With Fixed Bounds|
