@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 376 | May, 03 || Leetcode: 1007. Minimum Domino Rotations For Equal Row|
 | 375 | May, 02 || Leetcode: 838. Push Dominoes|
 | 374 | May, 01 || Leetcode: 2071. Maximum Number of Tasks You Can Assign|
 | 373 | Apr, 30 || Leetcode: 1295. Find Numbers with Even Number of Digits|
