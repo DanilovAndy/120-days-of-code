@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 378 | May, 05 || Leetcode: 790. Domino and Tromino Tiling|
 | 377 | May, 04 || Leetcode: 1128. Number of Equivalent Domino Pairs|
 | 376 | May, 03 || Leetcode: 1007. Minimum Domino Rotations For Equal Row|
 | 375 | May, 02 || Leetcode: 838. Push Dominoes|
