@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 379 | May, 06 || Leetcode: 1920. Build Array from Permutation|
 | 378 | May, 05 || Leetcode: 790. Domino and Tromino Tiling|
 | 377 | May, 04 || Leetcode: 1128. Number of Equivalent Domino Pairs|
 | 376 | May, 03 || Leetcode: 1007. Minimum Domino Rotations For Equal Row|
