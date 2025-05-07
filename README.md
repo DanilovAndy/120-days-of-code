@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 380 | May, 07 || Leetcode: 3341. Find Minimum Time to Reach Last Room I|
 | 379 | May, 06 || Leetcode: 1920. Build Array from Permutation|
 | 378 | May, 05 || Leetcode: 790. Domino and Tromino Tiling|
 | 377 | May, 04 || Leetcode: 1128. Number of Equivalent Domino Pairs|
