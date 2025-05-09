@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 382 | May, 09 || Leetcode: 3343. Count Number of Balanced Permutations|
 | 381 | May, 08 || Leetcode: 3342. Find Minimum Time to Reach Last Room II|
 | 380 | May, 07 || Leetcode: 3341. Find Minimum Time to Reach Last Room I|
 | 379 | May, 06 || Leetcode: 1920. Build Array from Permutation|
