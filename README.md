@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 384 | May, 11 || Leetcode: 1550. Three Consecutive Odds|
 | 383 | May, 10 || Leetcode: 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros|
 | 382 | May, 09 || Leetcode: 3343. Count Number of Balanced Permutations|
 | 381 | May, 08 || Leetcode: 3342. Find Minimum Time to Reach Last Room II|
