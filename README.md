@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 387 | May, 14 || Leetcode: 3337. Total Characters in String After Transformations II|
 | 386 | May, 13 || Leetcode: 3335. Total Characters in String After Transformations I|
 | 385 | May, 12 || Leetcode: 2094. Finding 3-Digit Even Numbers|
 | 384 | May, 11 || Leetcode: 1550. Three Consecutive Odds|
