@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 390 | May, 17 || Leetcode: 75. Sort Colors|
 | 389 | May, 16 || Leetcode: 2901. Longest Unequal Adjacent Groups Subsequence II|
 | 388 | May, 15 || Leetcode: 2900. Longest Unequal Adjacent Groups Subsequence I|
 | 387 | May, 14 || Leetcode: 3337. Total Characters in String After Transformations II|
