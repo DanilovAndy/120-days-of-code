@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 392 | May, 19 || Leetcode: 3024. Type of Triangle|
 | 391 | May, 18 || Leetcode: 1931. Painting a Grid With Three Different Colors|
 | 390 | May, 17 || Leetcode: 75. Sort Colors|
 | 389 | May, 16 || Leetcode: 2901. Longest Unequal Adjacent Groups Subsequence II|
