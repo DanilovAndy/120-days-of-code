@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 394 | May, 21 || Leetcode: 73. Set Matrix Zeroes|
 | 393 | May, 20 || Leetcode: 3355. Zero Array Transformation I|
 | 392 | May, 19 || Leetcode: 3024. Type of Triangle|
 | 391 | May, 18 || Leetcode: 1931. Painting a Grid With Three Different Colors|
