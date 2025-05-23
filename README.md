@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 396 | May, 23 || Leetcode: 3068. Find the Maximum Sum of Node Values|
 | 395 | May, 22 || Leetcode: 3362. Zero Array Transformation III|
 | 394 | May, 21 || Leetcode: 73. Set Matrix Zeroes|
 | 393 | May, 20 || Leetcode: 3355. Zero Array Transformation I|
