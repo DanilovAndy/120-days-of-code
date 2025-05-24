@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 397 | May, 24 || Leetcode: 2942. Find Words Containing Character|
 | 396 | May, 23 || Leetcode: 3068. Find the Maximum Sum of Node Values|
 | 395 | May, 22 || Leetcode: 3362. Zero Array Transformation III|
 | 394 | May, 21 || Leetcode: 73. Set Matrix Zeroes|
