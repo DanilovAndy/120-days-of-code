@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 398 | May, 25 || Leetcode: 2131. Longest Palindrome by Concatenating Two Letter Words|
 | 397 | May, 24 || Leetcode: 2942. Find Words Containing Character|
 | 396 | May, 23 || Leetcode: 3068. Find the Maximum Sum of Node Values|
 | 395 | May, 22 || Leetcode: 3362. Zero Array Transformation III|
