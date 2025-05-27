@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 400 | May, 27 || Leetcode: 2894. Divisible and Non-divisible Sums Difference|
 | 399 | May, 26 || Leetcode: 1857. Largest Color Value in a Directed Graph|
 | 398 | May, 25 || Leetcode: 2131. Longest Palindrome by Concatenating Two Letter Words|
 | 397 | May, 24 || Leetcode: 2942. Find Words Containing Character|
