@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 401 | May, 28 || Leetcode: 3372. Maximize the Number of Target Nodes After Connecting Trees I|
 | 400 | May, 27 || Leetcode: 2894. Divisible and Non-divisible Sums Difference|
 | 399 | May, 26 || Leetcode: 1857. Largest Color Value in a Directed Graph|
 | 398 | May, 25 || Leetcode: 2131. Longest Palindrome by Concatenating Two Letter Words|
