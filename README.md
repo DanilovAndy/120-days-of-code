@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 405 | Jun, 01 || 2929. Distribute Candies Among Children II|
 | 404 | May, 31 || 909. Snakes and Ladders|
 | 403 | May, 30 || 2359. Find Closest Node to Given Two Nodes|
 | 402 | May, 29 || 3373. Maximize the Number of Target Nodes After Connecting Trees II|
