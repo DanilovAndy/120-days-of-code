@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 406 | Jun, 02 || 135. Candy|
 | 405 | Jun, 01 || 2929. Distribute Candies Among Children II|
 | 404 | May, 31 || 909. Snakes and Ladders|
 | 403 | May, 30 || 2359. Find Closest Node to Given Two Nodes|
