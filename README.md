@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 408 | Jun, 04 || Find the Lexicographically Largest String From the Box I|
 | 407 | Jun, 03 || 1298. Maximum Candies You Can Get from Boxes|
 | 406 | Jun, 02 || 135. Candy|
 | 405 | Jun, 01 || 2929. Distribute Candies Among Children II|
