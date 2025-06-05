@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 409 | Jun, 05 || 1061. Lexicographically Smallest Equivalent String|
 | 408 | Jun, 04 || Find the Lexicographically Largest String From the Box I|
 | 407 | Jun, 03 || 1298. Maximum Candies You Can Get from Boxes|
 | 406 | Jun, 02 || 135. Candy|
