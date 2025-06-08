@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 412 | Jun, 08 || 386. Lexicographical Numbers|
 | 411 | Jun, 07 || 3170. Lexicographically Minimum String After Removing Stars|
 | 410 | Jun, 06 || 2434. Using a Robot to Print the Lexicographically Smallest String|
 | 409 | Jun, 05 || 1061. Lexicographically Smallest Equivalent String|
