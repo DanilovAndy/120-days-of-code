@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 413 | Jun, 09 || 440. K-th Smallest in Lexicographical Order|
 | 412 | Jun, 08 || 386. Lexicographical Numbers|
 | 411 | Jun, 07 || 3170. Lexicographically Minimum String After Removing Stars|
 | 410 | Jun, 06 || 2434. Using a Robot to Print the Lexicographically Smallest String|
