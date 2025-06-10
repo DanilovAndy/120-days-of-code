@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 414 | Jun, 10 || 3442. Maximum Difference Between Even and Odd Frequency I|
 | 413 | Jun, 09 || 440. K-th Smallest in Lexicographical Order|
 | 412 | Jun, 08 || 386. Lexicographical Numbers|
 | 411 | Jun, 07 || 3170. Lexicographically Minimum String After Removing Stars|
