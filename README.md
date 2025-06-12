@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 416 | Jun, 12 || 3423. Maximum Difference Between Adjacent Elements in a Circular Array|
 | 415 | Jun, 11 || 3445. Maximum Difference Between Even and Odd Frequency II|
 | 414 | Jun, 10 || 3442. Maximum Difference Between Even and Odd Frequency I|
 | 413 | Jun, 09 || 440. K-th Smallest in Lexicographical Order|
