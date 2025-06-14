@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 418 | Jun, 14 || 2566. Maximum Difference by Remapping a Digit|
 | 417 | Jun, 13 || 2616. Minimize the Maximum Difference of Pairs|
 | 416 | Jun, 12 || 3423. Maximum Difference Between Adjacent Elements in a Circular Array|
 | 415 | Jun, 11 || 3445. Maximum Difference Between Even and Odd Frequency II|
