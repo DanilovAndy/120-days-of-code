@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 421 | Jun, 17 || 3405. Count the Number of Arrays with K Matching Adjacent Elements|
 | 420 | Jun, 16 || 2016. Maximum Difference Between Increasing Elements|
 | 419 | Jun, 15 || 1432. Max Difference You Can Get From Changing an Integer|
 | 418 | Jun, 14 || 2566. Maximum Difference by Remapping a Digit|
