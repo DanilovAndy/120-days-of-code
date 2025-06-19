@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 423 | Jun, 19 || 2294. Partition Array Such That Maximum Difference Is K|
 | 422 | Jun, 18 || 2966. Divide Array Into Arrays With Max Difference|
 | 421 | Jun, 17 || 3405. Count the Number of Arrays with K Matching Adjacent Elements|
 | 420 | Jun, 16 || 2016. Maximum Difference Between Increasing Elements|
