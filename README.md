@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 424 | Jun, 20 || 3443. Maximum Manhattan Distance After K Changes|
 | 423 | Jun, 19 || 2294. Partition Array Such That Maximum Difference Is K|
 | 422 | Jun, 18 || 2966. Divide Array Into Arrays With Max Difference|
 | 421 | Jun, 17 || 3405. Count the Number of Arrays with K Matching Adjacent Elements|
