@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 426 | Jun, 22 || 2138. Divide a String Into Groups of Size k|
 | 425 | Jun, 21 || 3085. Minimum Deletions to Make String K-Special|
 | 424 | Jun, 20 || 3443. Maximum Manhattan Distance After K Changes|
 | 423 | Jun, 19 || 2294. Partition Array Such That Maximum Difference Is K|
