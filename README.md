@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 427 | Jun, 23 || 2081. Sum of k-Mirror Numbers|
 | 426 | Jun, 22 || 2138. Divide a String Into Groups of Size k|
 | 425 | Jun, 21 || 3085. Minimum Deletions to Make String K-Special|
 | 424 | Jun, 20 || 3443. Maximum Manhattan Distance After K Changes|
