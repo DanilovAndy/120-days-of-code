@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 428 | Jun, 24 || 2200. Find All K-Distant Indices in an Array|
 | 427 | Jun, 23 || 2081. Sum of k-Mirror Numbers|
 | 426 | Jun, 22 || 2138. Divide a String Into Groups of Size k|
 | 425 | Jun, 21 || 3085. Minimum Deletions to Make String K-Special|
