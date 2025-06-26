@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 430 | Jun, 26 || 2311. Longest Binary Subsequence Less Than or Equal to K|
 | 429 | Jun, 25 || 2040. Kth Smallest Product of Two Sorted Arrays|
 | 428 | Jun, 24 || 2200. Find All K-Distant Indices in an Array|
 | 427 | Jun, 23 || 2081. Sum of k-Mirror Numbers|
