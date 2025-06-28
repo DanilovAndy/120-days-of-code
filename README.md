@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 432 | Jun, 28 || 2099. Find Subsequence of Length K With the Largest Sum|
 | 431 | Jun, 27 || 2014. Longest Subsequence Repeated k Times|
 | 430 | Jun, 26 || 2311. Longest Binary Subsequence Less Than or Equal to K|
 | 429 | Jun, 25 || 2040. Kth Smallest Product of Two Sorted Arrays|
