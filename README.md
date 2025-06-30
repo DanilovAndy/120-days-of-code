@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 434 | Jun, 30 || 594. Longest Harmonious Subsequence|
 | 433 | Jun, 29 || 1498. Number of Subsequences That Satisfy the Given Sum Condition|
 | 432 | Jun, 28 || 2099. Find Subsequence of Length K With the Largest Sum|
 | 431 | Jun, 27 || 2014. Longest Subsequence Repeated k Times|
