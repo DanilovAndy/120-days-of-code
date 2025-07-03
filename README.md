@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 437 | Jul, 03 || 3304. Find the K-th Character in String Game I|
 | 436 | Jul, 02 || 3333. Find the Original Typed String II|
 | 435 | Jul, 01 || 3330. Find the Original Typed String I|
 | 434 | Jun, 30 || 594. Longest Harmonious Subsequence|
