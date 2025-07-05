@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 439 | Jul, 05 || 1394. Find Lucky Integer in an Array |
 | 438 | Jul, 04 || 3307. Find the K-th Character in String Game II|
 | 437 | Jul, 03 || 3304. Find the K-th Character in String Game I|
 | 436 | Jul, 02 || 3333. Find the Original Typed String II|
