@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 441 | Jul, 07 || 1353. Maximum Number of Events That Can Be Attended |
 | 440 | Jul, 06 || 1865. Finding Pairs With a Certain Sum |
 | 439 | Jul, 05 || 1394. Find Lucky Integer in an Array |
 | 438 | Jul, 04 || 3307. Find the K-th Character in String Game II|
