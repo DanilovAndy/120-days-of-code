@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 442 | Jul, 08 || 1751. Maximum Number of Events That Can Be Attended II |
 | 441 | Jul, 07 || 1353. Maximum Number of Events That Can Be Attended |
 | 440 | Jul, 06 || 1865. Finding Pairs With a Certain Sum |
 | 439 | Jul, 05 || 1394. Find Lucky Integer in an Array |
