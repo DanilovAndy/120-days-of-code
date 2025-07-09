@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 443 | Jul, 09 || 3439. Reschedule Meetings for Maximum Free Time I |
 | 442 | Jul, 08 || 1751. Maximum Number of Events That Can Be Attended II |
 | 441 | Jul, 07 || 1353. Maximum Number of Events That Can Be Attended |
 | 440 | Jul, 06 || 1865. Finding Pairs With a Certain Sum |
