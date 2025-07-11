@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 445 | Jul, 11 || 2402. Meeting Rooms III |
 | 444 | Jul, 10 || 3440. Reschedule Meetings for Maximum Free Time II |
 | 443 | Jul, 09 || 3439. Reschedule Meetings for Maximum Free Time I |
 | 442 | Jul, 08 || 1751. Maximum Number of Events That Can Be Attended II |
