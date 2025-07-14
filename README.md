@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 448 | Jul, 14 || 1290. Convert Binary Number in a Linked List to Integer|
 | 447 | Jul, 13 || 2410. Maximum Matching of Players With Trainers |
 | 446 | Jul, 12 || 1900. The Earliest and Latest Rounds Where Players Compete |
 | 445 | Jul, 11 || 2402. Meeting Rooms III |
