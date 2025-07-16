@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 450 | Jul, 16 || 3201. Find the Maximum Length of Valid Subsequence I |
 | 449 | Jul, 15 || 3136. Valid Word |
 | 448 | Jul, 14 || 1290. Convert Binary Number in a Linked List to Integer|
 | 447 | Jul, 13 || 2410. Maximum Matching of Players With Trainers |
