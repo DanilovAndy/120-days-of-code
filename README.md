@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 451 | Jul, 17 || 3202. Find the Maximum Length of Valid Subsequence II |
 | 450 | Jul, 16 || 3201. Find the Maximum Length of Valid Subsequence I |
 | 449 | Jul, 15 || 3136. Valid Word |
 | 448 | Jul, 14 || 1290. Convert Binary Number in a Linked List to Integer|
