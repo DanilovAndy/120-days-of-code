@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 452 | Jul, 18 || 2163. Minimum Difference in Sums After Removal of Elements |
 | 451 | Jul, 17 || 3202. Find the Maximum Length of Valid Subsequence II |
 | 450 | Jul, 16 || 3201. Find the Maximum Length of Valid Subsequence I |
 | 449 | Jul, 15 || 3136. Valid Word |
