@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 454 | Jul, 20 || 1948. Delete Duplicate Folders in System |
 | 453 | Jul, 19 || 1233. Remove Sub-Folders from the Filesystem |
 | 452 | Jul, 18 || 2163. Minimum Difference in Sums After Removal of Elements |
 | 451 | Jul, 17 || 3202. Find the Maximum Length of Valid Subsequence II |
