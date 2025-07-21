@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 455 | Jul, 21 || 1957. Delete Characters to Make Fancy String |
 | 454 | Jul, 20 || 1948. Delete Duplicate Folders in System |
 | 453 | Jul, 19 || 1233. Remove Sub-Folders from the Filesystem |
 | 452 | Jul, 18 || 2163. Minimum Difference in Sums After Removal of Elements |
