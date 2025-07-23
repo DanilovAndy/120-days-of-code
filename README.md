@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 457 | Jul, 23 || 1717. Maximum Score From Removing Substrings |
 | 456 | Jul, 22 || 1695. Maximum Erasure Value |
 | 455 | Jul, 21 || 1957. Delete Characters to Make Fancy String |
 | 454 | Jul, 20 || 1948. Delete Duplicate Folders in System |
