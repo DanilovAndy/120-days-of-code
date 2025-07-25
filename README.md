@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 459 | Jul, 25 || 3487. Maximum Unique Subarray Sum After Deletion |
 | 458 | Jul, 24 || 2322. Minimum Score After Removals on a Tree |
 | 457 | Jul, 23 || 1717. Maximum Score From Removing Substrings |
 | 456 | Jul, 22 || 1695. Maximum Erasure Value |
