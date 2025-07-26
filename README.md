@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 460 | Jul, 26 || 3480. Maximize Subarrays After Removing One Conflicting Pair |
 | 459 | Jul, 25 || 3487. Maximum Unique Subarray Sum After Deletion |
 | 458 | Jul, 24 || 2322. Minimum Score After Removals on a Tree |
 | 457 | Jul, 23 || 1717. Maximum Score From Removing Substrings |
