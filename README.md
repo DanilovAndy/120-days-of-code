@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 461 | Jul, 27 || 2210. Count Hills and Valleys in an Array |
 | 460 | Jul, 26 || 3480. Maximize Subarrays After Removing One Conflicting Pair |
 | 459 | Jul, 25 || 3487. Maximum Unique Subarray Sum After Deletion |
 | 458 | Jul, 24 || 2322. Minimum Score After Removals on a Tree |
