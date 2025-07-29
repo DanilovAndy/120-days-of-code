@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 463 | Jul, 29 || 2411. Smallest Subarrays With Maximum Bitwise OR |
 | 462 | Jul, 28 || 2044. Count Number of Maximum Bitwise-OR Subsets |
 | 461 | Jul, 27 || 2210. Count Hills and Valleys in an Array |
 | 460 | Jul, 26 || 3480. Maximize Subarrays After Removing One Conflicting Pair |
