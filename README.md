@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 466 | Aug, 01 || 118. Pascal's Triangle |
 | 465 | Jul, 31 || 898. Bitwise ORs of Subarrays |
 | 464 | Jul, 30 || 2419. Longest Subarray With Maximum Bitwise AND |
 | 463 | Jul, 29 || 2411. Smallest Subarrays With Maximum Bitwise OR |
