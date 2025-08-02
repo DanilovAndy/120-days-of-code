@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 467 | Aug, 02 || 2561. Rearranging Fruits |
 | 466 | Aug, 01 || 118. Pascal's Triangle |
 | 465 | Jul, 31 || 898. Bitwise ORs of Subarrays |
 | 464 | Jul, 30 || 2419. Longest Subarray With Maximum Bitwise AND |
