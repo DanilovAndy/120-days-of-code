@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 468 | Aug, 03 || 2106. Maximum Fruits Harvested After at Most K Steps |
 | 467 | Aug, 02 || 2561. Rearranging Fruits |
 | 466 | Aug, 01 || 118. Pascal's Triangle |
 | 465 | Jul, 31 || 898. Bitwise ORs of Subarrays |
