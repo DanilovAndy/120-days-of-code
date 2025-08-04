@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 469 | Aug, 04 || 904. Fruit Into Baskets |
 | 468 | Aug, 03 || 2106. Maximum Fruits Harvested After at Most K Steps |
 | 467 | Aug, 02 || 2561. Rearranging Fruits |
 | 466 | Aug, 01 || 118. Pascal's Triangle |
