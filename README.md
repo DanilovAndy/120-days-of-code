@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 472 | Aug, 07 || 3363. Find the Maximum Number of Fruits Collected|
 | 471 | Aug, 06 || 3479. Fruits Into Baskets III |
 | 470 | Aug, 05 || 3477. Fruits Into Baskets II |
 | 469 | Aug, 04 || 904. Fruit Into Baskets |
