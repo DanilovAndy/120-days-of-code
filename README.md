@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 476 | Aug, 11 || 2438. Range Product Queries of Powers|
+| 476 | Aug, 11 || 2438.  Range Product Queries of Powers|
 | 475 | Aug, 10 || 869. Reordered Power of 2|
 | 474 | Aug, 09 || 231. Power of Two|
 | 473 | Aug, 08 || 808. Soup Servings|
