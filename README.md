@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 479 | Aug, 14 || 2264. Largest 3-Same-Digit Number in String|
 | 478 | Aug, 13 || 326. Power of Three|
 | 477 | Aug, 12 || 2787. Ways to Express an Integer as Sum of Powers|
 | 476 | Aug, 11 || 2438.  Range Product Queries of Powers|
