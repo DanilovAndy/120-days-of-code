@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 480 | Aug, 15 || 342. Power of Four|
 | 479 | Aug, 14 || 2264. Largest 3-Same-Digit Number in String|
 | 478 | Aug, 13 || 326. Power of Three|
 | 477 | Aug, 12 || 2787. Ways to Express an Integer as Sum of Powers|
