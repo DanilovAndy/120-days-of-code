@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 481 | Aug, 16 || 1323. Maximum 69 Number|
 | 480 | Aug, 15 || 342. Power of Four|
 | 479 | Aug, 14 || 2264. Largest 3-Same-Digit Number in String|
 | 478 | Aug, 13 || 326. Power of Three|
