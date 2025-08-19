@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 484 | Aug, 19 || 2348. Number of Zero-Filled Subarrays |
 | 483 | Aug, 18 || 679. 24 Game |
 | 482 | Aug, 17 || 837. New 21 Game|
 | 481 | Aug, 16 || 1323. Maximum 69 Number|
