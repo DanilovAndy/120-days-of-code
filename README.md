@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 486 | Aug, 21 || 1504. Count Submatrices With All Ones |
 | 485 | Aug, 20 || 1277. Count Square Submatrices with All Ones |
 | 484 | Aug, 19 || 2348. Number of Zero-Filled Subarrays |
 | 483 | Aug, 18 || 679. 24 Game |
