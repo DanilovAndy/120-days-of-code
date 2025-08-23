@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 488 | Aug, 23 || 3197. Find the Minimum Area to Cover All Ones II|
 | 487 | Aug, 22 || 3195. Find the Minimum Area to Cover All Ones I|
 | 486 | Aug, 21 || 1504. Count Submatrices With All Ones |
 | 485 | Aug, 20 || 1277. Count Square Submatrices with All Ones |
