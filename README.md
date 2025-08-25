@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 490 | Aug, 25 || 498. Diagonal Traverse|
 | 489 | Aug, 24 || 1493. Longest Subarray of 1's After Deleting One Element|
 | 488 | Aug, 23 || 3197. Find the Minimum Area to Cover All Ones II|
 | 487 | Aug, 22 || 3195. Find the Minimum Area to Cover All Ones I|
