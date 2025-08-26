@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 491 | Aug, 26 || 3000. Maximum Area of Longest Diagonal Rectangle|
 | 490 | Aug, 25 || 498. Diagonal Traverse|
 | 489 | Aug, 24 || 1493. Longest Subarray of 1's After Deleting One Element|
 | 488 | Aug, 23 || 3197. Find the Minimum Area to Cover All Ones II|
